@@ -1,0 +1,2324 @@
+District,Health Facility,Date
+Chama,Chigoma,6/16/2009
+Chama,Fulaza,6/16/2009
+Chama,Pondo,6/16/2009
+Chama,Chifunda,6/17/2009
+Chama,Mapamba,6/17/2009
+Chama,Chikwa,6/18/2009
+Chama,Kapichilasenga,6/18/2009
+Chama,Buli,6/19/2009
+Chama,Kambombo,6/19/2009
+Chama,Mphyanakunda,6/19/2009
+Chama,Nthonkho,6/19/2009
+Chama,Sitwe,6/19/2009
+Chama,Tembwe,6/19/2009
+Chama,Kanyelele,7/1/2009
+Chama,Chibale,7/6/2009
+Chama,Mulilo,7/6/2009
+Chama,Chilubanama,7/7/2009
+Chama,Lundu,7/7/2009
+Chama,Kambombo,7/27/2009
+Chama,Kambwili Health Post,7/27/2009
+Chama,Nthonkho,7/27/2009
+Chama,Sitwe,7/27/2009
+Chama,Buli,7/28/2009
+Chama,Kapichilasenga,7/28/2009
+Chama,Pondo,7/28/2009
+Chama,Tembwe,7/28/2009
+Chama,Chifunda,7/29/2009
+Chama,Chigoma,7/29/2009
+Chama,Fulaza,7/29/2009
+Chama,Mapamba,7/29/2009
+Chama,Chikwa,7/31/2009
+Chama,Mphyanakunda,8/5/2009
+Chama,Chibale,8/6/2009
+Chama,Kambombo,8/13/2009
+Chama,Nthonkho,8/14/2009
+Chama,Buli,8/18/2009
+Chama,Chigoma,8/19/2009
+Chama,Chikwa,8/19/2009
+Chama,Kapichilasenga,8/19/2009
+Chama,Tembwe,8/19/2009
+Chama,Chifunda,8/20/2009
+Chama,Mapamba,8/20/2009
+Chama,Pondo,8/20/2009
+Chama,Mulilo,8/23/2009
+Chama,Chilubanama,8/24/2009
+Chama,Lundu,8/24/2009
+Chama,Chibale,8/26/2009
+Chama,Kambwili Health Post,8/28/2009
+Chama,Sitwe,8/28/2009
+Chama,Buli,9/14/2009
+Chama,Kanyelele,9/14/2009
+Chama,Mulilo,9/14/2009
+Chama,Chibale,9/15/2009
+Chama,Kapichilasenga,9/15/2009
+Chama,Tembwe,9/15/2009
+Chama,Chilubanama,9/16/2009
+Chama,Chifunda,9/17/2009
+Chama,Chigoma,9/17/2009
+Chama,Chikwa,9/17/2009
+Chama,Fulaza,9/17/2009
+Chama,Mapamba,9/17/2009
+Chama,Pondo,9/17/2009
+Chama,Lundu,9/17/2009
+Chama,Kambombo,9/21/2009
+Chama,Kambwili Health Post,9/21/2009
+Chama,Mphyanakunda,9/21/2009
+Chama,Nthonkho,9/21/2009
+Chama,Sitwe,9/21/2009
+Chama,Kambombo,10/15/2009
+Chama,Kambwili Health Post,10/15/2009
+Chama,Nthonkho,10/15/2009
+Chama,Buli,10/17/2009
+Chama,Kapichilasenga,10/17/2009
+Chama,Tembwe,10/17/2009
+Chama,Sitwe,10/19/2009
+Chama,Chifunda,10/21/2009
+Chama,Chikwa,10/21/2009
+Chama,Lundu,10/27/2009
+Chama,Chibale,10/28/2009
+Chama,Mulilo,10/28/2009
+Chama,Mapamba,10/29/2009
+Chama,Chigoma,11/4/2009
+Chama,Fulaza,11/4/2009
+Chama,Pondo,11/4/2009
+Chama,Chilubanama,11/5/2009
+Chama,Kanyelele,11/9/2009
+Chama,Mphyanakunda,11/19/2009
+Chama,Chilubanama,11/20/2009
+Chama,Kanyelele,11/20/2009
+Chama,Fulaza,11/25/2009
+Chama,Pondo,11/25/2009
+Chama,Chibale,12/2/2009
+Chama,Kambombo,12/11/2009
+Chama,Kambwili Health Post,12/11/2009
+Chama,Nthonkho,12/11/2009
+Chama,Buli,12/12/2009
+Chama,Chibale,12/12/2009
+Chama,Kapichilasenga,12/12/2009
+Chama,Mulilo,12/12/2009
+Chama,Tembwe,12/12/2009
+Chama,Chifunda,12/14/2009
+Chama,Chigoma,12/14/2009
+Chama,Chikwa,12/14/2009
+Chama,Chilubanama,12/14/2009
+Chama,Lundu,12/15/2009
+Chama,Kanyelele,12/17/2009
+Chama,Chilubanama,1/27/1900
+Chama,Kanyelele,2/15/1900
+Chama,Chibale,2/22/1900
+Chama,Chilubanama,3/1/1900
+Chama,Lundu,3/3/1900
+Chama,Kanyelele,3/15/1900
+Chama,Chibale,3/19/1900
+Chama,Chilubanama,3/20/1900
+Chama,Chifunda,4/1/1900
+Chama,Buli,4/19/1900
+Chama,Kapichilasenga,4/19/1900
+Chama,Tembwe,4/19/1900
+Chama,Mapamba,4/20/1900
+Chama,Pondo,4/20/1900
+Chama,Mphyanakunda,4/21/1900
+Chama,Chigoma,4/23/1900
+Chama,Chikwa,4/23/1900
+Chama,Fulaza,4/23/1900
+Chama,Kambombo,4/26/1900
+Chama,Kambwili Health Post,4/26/1900
+Chama,Chibale,4/27/1900
+Chama,Kanyelele,4/27/1900
+Chama,Mulilo,4/27/1900
+Chama,Lundu,4/28/1900
+Chama,Nthonkho,4/29/1900
+Chama,Sitwe,4/29/1900
+Chavuma,CHIVOMBO RHC,4/16/2009
+Chavuma,LUKOLWE MISSION RHC,4/20/2009
+Chavuma,LUKOLWE MISSION RHC,4/20/2009
+Chavuma,CHIYEKE RHC,4/21/2009
+Chavuma,CHINGI RHC,4/22/2009
+Chavuma,CHINGI RHC,4/22/2009
+Chavuma,CHIVOMBO RHC,4/23/2009
+Chavuma,CHIYEKE RHC,4/24/2009
+Chavuma,CHIYEKE RHC,4/24/2009
+Chavuma,CHIYEKE RHC,4/24/2009
+Chavuma,NYATANDA HP,4/29/2009
+Chavuma,NYATANDA HP,4/29/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,5/5/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,5/8/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,5/15/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,5/15/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,5/19/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,5/21/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,5/21/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,5/21/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,5/22/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,5/22/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,5/23/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,5/23/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,5/26/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,5/26/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,5/29/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,5/29/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,6/17/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,6/18/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,6/19/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,6/19/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,6/22/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,6/22/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,6/25/2009
+Chavuma,NGUVU HEALTH POST,6/26/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,7/24/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH,7/25/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,7/27/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,7/27/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,7/28/2009
+Chavuma,NGUVU HEALTH POST,7/28/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,8/18/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,8/18/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,8/26/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,8/27/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,8/28/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,9/17/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,9/18/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,9/18/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,9/21/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,9/22/2009
+Chavuma,NGUVU HEALTH POST,9/23/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,9/25/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,10/15/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,10/19/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,10/19/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,10/22/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,10/27/2009
+Chavuma,NGUVU HEALTH POST,10/28/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,10/28/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,11/13/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,11/13/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,11/18/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,11/19/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,11/19/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,11/20/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,11/25/2009
+Chavuma,NGUVU HEALTH POST,11/26/2009
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,12/25/2009
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,12/28/2009
+Chavuma,CHINGI RURAL HEALTH CENTRE,12/28/2009
+Chavuma,NGUVU HEALTH POST,12/29/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,12/29/2009
+Chavuma,LUKOLWE MISSION RURAL HEaLTH CENTRE,12/31/2009
+Chavuma,NYATANDA RURAL HEALTH CENTRE,12/31/2009
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,1/14/2010
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,1/22/2010
+Chavuma,CHINGI RURAL HEALTH CENTRE,1/22/2010
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,1/22/2010
+Chavuma,NYATANDA RURAL HEALTH CENTRE,1/27/2010
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,2/13/2010
+Chavuma,CHINGI RURAL HEALTH CENTRE,2/17/2010
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,2/17/2010
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,3/12/2010
+Chavuma,CHINGI RURAL HEALTH CENTRE,3/12/2010
+Chavuma,LUKOLWE MISSION RURAL HEALTH CENTRE,3/22/2010
+Chavuma,CHINGI RURAL HEALTH CENTRE,3/24/2010
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,4/18/2010
+Chavuma,CHINGI RURAL HEALTH CENTRE,4/21/2010
+Chavuma,CHIVOMBO RURAL HEALTH CENTRE,4/26/2010
+Chavuma,CHINGI RURAL HEALTH CENTRE,4/26/2010
+Chavuma,CHIYEKE RURAL HEALTH CENTRE,4/30/2010
+Kabompo,Chifuwe South RHC,6/26/2009
+Kabompo,Kabompo HAHC,7/3/2009
+Kabompo,Kasamba RHC,7/3/2009
+Kabompo,St Kalemba,7/3/2009
+Kabompo,Kabulamema RHC,7/4/2009
+Kabompo,Mumbeji RHC,7/4/2009
+Kabompo,Nkulwashi RHC,7/4/2009
+Kabompo,Chikonkwelo RHC,7/12/2009
+Kabompo,Dyambombola RHC,7/12/2009
+Kabompo,Kalunga RHC,7/16/2009
+Kabompo,Kashinakaji RHC,7/19/2009
+Kabompo,Kayombo RHC,7/19/2009
+Kabompo,Luansongwa RHC,7/19/2009
+Kabompo,Mayawu RHC,7/19/2009
+Kabompo,Kabompo HAHC,8/2/2009
+Kabompo,Chikonkwelo RHC,8/3/2009
+Kabompo,Mumbeji RHC,8/3/2009
+Kabompo,St Kalemba,8/3/2009
+Kabompo,Ndungo RHC,8/5/2009
+Kabompo,Kabulamema RHC,8/6/2009
+Kabompo,Kasamba RHC,8/6/2009
+Kabompo,Loloma HAHC,8/6/2009
+Kabompo,Nkulwashi RHC,8/6/2009
+Kabompo,Chifuwe South RHC,8/8/2009
+Kabompo,Dyambombola RHC,8/8/2009
+Kabompo,Kalunga RHC,8/8/2009
+Kabompo,Kashinakaji RHC,8/8/2009
+Kabompo,Kayombo RHC,8/8/2009
+Kabompo,Luansongwa RHC,8/8/2009
+Kabompo,Mayawu RHC,8/8/2009
+Kabompo,Mayawu RHC,9/8/2009
+Kabompo,Kalunga RHC,9/21/2009
+Kabompo,Kabompo HAHC,9/22/2009
+Kabompo,Loloma HAHC,9/22/2009
+Kabompo,Dyambombola RHC,9/23/2009
+Kabompo,Kashinakaji RHC,9/23/2009
+Kabompo,Luansongwa RHC,9/23/2009
+Kabompo,Chifuwe South RHC,9/25/2009
+Kabompo,Kasamba RHC,9/25/2009
+Kabompo,St Kalemba,9/25/2009
+Kabompo,Kabulamema RHC,9/28/2009
+Kabompo,Mumbeji RHC,9/28/2009
+Kabompo,Ndungo RHC,9/28/2009
+Kabompo,Nkulwashi RHC,9/28/2009
+Kabompo,Chikonkwelo RHC,9/29/2009
+Kabompo,Kayombo RHC,9/29/2009
+Kabompo,Dyambombola RHC,10/22/2009
+Kabompo,Kashinakaji RHC,10/22/2009
+Kabompo,Luansongwa RHC,10/22/2009
+Kabompo,Mayawu RHC,10/22/2009
+Kabompo,Kabulamema RHC,10/23/2009
+Kabompo,Mumbeji RHC,10/23/2009
+Kabompo,Nkulwashi RHC,10/23/2009
+Kabompo,Chifuwe South RHC,10/27/2009
+Kabompo,Ndungo RHC,10/27/2009
+Kabompo,Chikonkwelo RHC,10/28/2009
+Kabompo,Kalunga RHC,10/28/2009
+Kabompo,Kasamba RHC,10/28/2009
+Kabompo,Kayombo RHC,10/28/2009
+Kabompo,Loloma HAHC,10/28/2009
+Kabompo,St Kalemba,10/28/2009
+Kabompo,Kabompo HAHC,11/27/2009
+Kabompo,Kabulamema RHC,11/27/2009
+Kabompo,Loloma HAHC,11/27/2009
+Kabompo,Mumbeji RHC,11/27/2009
+Kabompo,Nkulwashi RHC,11/27/2009
+Kabompo,Chikonkwelo RHC,11/28/2009
+Kabompo,Dyambombola RHC,11/28/2009
+Kabompo,Kalunga RHC,11/28/2009
+Kabompo,Kashinakaji RHC,11/28/2009
+Kabompo,Kayombo RHC,11/28/2009
+Kabompo,Luansongwa RHC,11/28/2009
+Kabompo,Mayawu RHC,11/28/2009
+Kabompo,Chifuwe South RHC,11/29/2009
+Kabompo,Kasamba RHC,11/29/2009
+Kabompo,Ndungo RHC,11/29/2009
+Kabompo,St Kalemba,11/29/2009
+Kabompo,Kabompo HAHC,12/22/2009
+Kabompo,Loloma HAHC,12/22/2009
+Kabompo,Kabulamema RHC,12/24/2009
+Kabompo,Mumbeji RHC,12/24/2009
+Kabompo,Nkulwashi RHC,12/24/2009
+Kabompo,Chifuwe South RHC,12/28/2009
+Kabompo,Ndungo RHC,12/28/2009
+Kabompo,Kasamba RHC,12/29/2009
+Kabompo,St Kalemba,12/29/2009
+Kabompo,Chikonkwelo RHC,12/30/2009
+Kabompo,Kalunga RHC,12/30/2009
+Kabompo,Kayombo RHC,12/30/2009
+Kabompo,Dyambombola RHC,12/31/2009
+Kabompo,Kashinakaji RHC,12/31/2009
+Kabompo,Luansongwa RHC,12/31/2009
+Kabompo,Mayawu RHC,12/31/2009
+Kabompo,Dyambombola RHC,1/4/2010
+Kabompo,Chifuwe South RHC,1/6/2010
+Kabompo,Ndungo RHC,1/6/2010
+Kabompo,St Kalemba,1/6/2010
+Kabompo,Kabompo HAHC,1/22/2010
+Kabompo,Loloma HAHC,1/22/2010
+Kabompo,Kabulamema RHC,1/25/2010
+Kabompo,Kashinakaji RHC,1/25/2010
+Kabompo,Mumbeji RHC,1/25/2010
+Kabompo,Nkulwashi RHC,1/25/2010
+Kabompo,Luansongwa RHC,1/26/2010
+Kabompo,Mayawu RHC,1/26/2010
+Kabompo,Chikonkwelo RHC,1/27/2010
+Kabompo,Kayombo RHC,1/27/2010
+Kabompo,Kasamba RHC,1/28/2010
+Kabompo,Kalunga RHC,1/29/2010
+Kabompo,Kabompo HAHC,2/22/2010
+Kabompo,Mumbeji RHC,2/26/2010
+Kabompo,Nkulwashi RHC,2/26/2010
+Kabompo,Kabulamema RHC,2/26/2010
+Kabompo,Loloma HAHC,3/22/2010
+Kabompo,Kabulamema RHC,3/23/2010
+Kabompo,Mumbeji RHC,3/23/2010
+Kabompo,Nkulwashi RHC,3/23/2010
+Kabompo,Kashinakaji RHC,3/25/2010
+Kabompo,Luansongwa RHC,3/25/2010
+Kabompo,Mayawu RHC,3/25/2010
+Kabompo,Chifuwe South RHC,3/27/2010
+Kabompo,Kasamba RHC,3/27/2010
+Kabompo,Ndungo RHC,3/27/2010
+Kabompo,St Kalemba,3/27/2010
+Kabompo,Chikonkwelo RHC,3/28/2010
+Kabompo,Dyambombola RHC,3/28/2010
+Kabompo,Kayombo RHC,3/28/2010
+Kabompo,Kabompo HAHC,3/29/2010
+Kabompo,Kabompo HAHC,4/19/2010
+Kabompo,Kabulamema RHC,4/21/2010
+Kabompo,Mumbeji RHC,4/21/2010
+Kabompo,Nkulwashi RHC,4/21/2010
+Kabompo,Chifuwe South RHC,4/22/2010
+Kabompo,Kasamba RHC,4/22/2010
+Kabompo,Ndungo RHC,4/22/2010
+Kabompo,St Kalemba,4/22/2010
+Kabompo,Kashinakaji RHC,4/23/2010
+Kabompo,Luansongwa RHC,4/23/2010
+Kabompo,Loloma HACH,4/23/2010
+Kabompo,Mayawu RHC,4/23/2010
+Kabompo,Chikonkwelo RHC,4/24/2010
+Kabompo,Dyambombola RHC,4/24/2010
+Kabompo,Kalunga RHC,4/24/2010
+Kabompo,Kayombo RHC,4/24/2010
+Kaoma,Luena Camp hosp,8/4/2009
+Kaoma,Nkenga RHC,8/4/2009
+Kaoma,Kahare RHC,8/4/2009
+Kaoma,Njonjolo RHC,8/4/2009
+Kaoma,Namilangi RHC,8/4/2009
+Kaoma,Kabilamwandi HP,8/14/2009
+Kaoma,Winda RHC,8/14/2009
+Kaoma,Nakayembe RHC,8/17/2009
+Kaoma,Afumba RHC,8/17/2009
+Kaoma,Mayukwayukwa 1 RHC,8/17/2009
+Kaoma,Kaoma DH,8/21/2009
+Kaoma,Luampa M Hosp,8/24/2009
+Kaoma,Mangango MH,8/27/2009
+Kaoma,Kaoma Urban HC,8/28/2009
+Kaoma,Mulamba UHC,8/28/2009
+Kaoma,Luampa M Hosp,8/28/2009
+Kaoma,Longe HP,9/2/2009
+Kaoma,Nkeyema RHC,9/2/2009
+Kaoma,Mulamba UHC,9/2/2009
+Kaoma,Nkeyema RHC,9/3/2009
+Kaoma,Luena Camp hosp,9/4/2009
+Kaoma,Kaaba RHC,9/4/2009
+Kaoma,Luampa MH,9/4/2009
+Kaoma,Njonjolo RHC,9/4/2009
+Kaoma,Namilangi RHC,9/4/2009
+Kaoma,Mulwa RHC,9/7/2009
+Kaoma,Kasimba RHC,9/7/2009
+Kaoma,Katunda RHC,9/8/2009
+Kaoma,Nyambi 1 RHC,9/8/2009
+Kaoma,Nyambi 2 RHC,9/8/2009
+Kaoma,Afumba RHC,9/8/2009
+Kaoma,Urban HC,9/8/2009
+Kaoma,Nkenga RHC,9/8/2009
+Kaoma,Mayukwayukwa 1 RHC,9/10/2009
+Kaoma,Lui RHC,9/10/2009
+Kaoma,ZNS Mangango RHC,9/10/2009
+Kaoma,Kaoma DH,9/14/2009
+Kaoma,Mangango MH,9/14/2009
+Kaoma,Kabilamwandi HP,9/15/2009
+Kaoma,Kahare RHC,9/15/2009
+Kaoma,Namilangi RHC,9/15/2009
+Kaoma,Winda RHC,9/15/2009
+Kaoma,Katunda RHC,9/16/2009
+Kaoma,Urban HC,9/18/2009
+Kaoma,Nkeyema RHC,9/18/2009
+Kaoma,Kaoma DH,9/23/2009
+Kaoma,Namilangi RHC,9/23/2009
+Kaoma,Kaoma DH,9/23/2009
+Kaoma,Lui RHC,9/24/2009
+Kaoma,Nkeyema RHC,9/24/2009
+Kaoma,Mangango RHC,9/25/2009
+Kaoma,Chitwa RHC,9/28/2009
+Kaoma,Kaaba RHC,9/29/2009
+Kaoma,Namilangi RHC,9/30/2009
+Kaoma,Mayukwayukwa 2 RHC,10/1/2009
+Kaoma,Winda RHC,10/8/2009
+Kaoma,Mulwa RHC,10/8/2009
+Kaoma,Mangango RHC,10/13/2009
+Kaoma,Kaoma Urban HC,10/13/2009
+Kaoma,Kaoma District Hosp,10/13/2009
+Kaoma,Longe HP,10/13/2009
+Kaoma,Mbanyutu RHC,10/14/2009
+Kaoma,Kaoma Urban HC,10/15/2009
+Kaoma,Luena Camp Hosp,10/16/2009
+Kaoma,Longe HP,10/19/2009
+Kaoma,Mangango MH HAHC,10/20/2009
+Kaoma,Luena Camp Hosp,10/22/2009
+Kaoma,Nkeyema RHC,10/23/2009
+Kaoma,Kaoma Urban HC,10/29/2009
+Kaoma,ZNS Mangango RHC,10/29/2009
+Kaoma,Luampa MH,10/29/2009
+Kaoma,Luampa MH HAHC,10/29/2009
+Kaoma,Mulamba UHC,10/30/2009
+Kaoma,Namilangi RHC,10/30/2009
+Kaoma,Mangango MH,11/3/2009
+Kaoma,Mulamba UHC,11/4/2009
+Kaoma,Nkeyema RHC,11/4/2009
+Kaoma,Winda RHC,11/13/2009
+Kaoma,ZNS Mangango RHC,11/16/2009
+Kaoma,Luampa MH,11/19/2009
+Kaoma,Katunda RHC,11/19/2009
+Kaoma,Nkenga RHC,11/19/2009
+Kaoma,Mangango HAHC,11/20/2009
+Kaoma,Kaaba RHC,11/23/2009
+Kaoma,Kasabi RHC,11/23/2009
+Kaoma,Mbanyutu RHC,11/23/2009
+Kaoma,Nyambi RHC,11/24/2009
+Kaoma,Kahare RHC,11/26/2009
+Kaoma,Luena Camp Hosp,11/26/2009
+Kaoma,Chitwa RHC,11/27/2009
+Kaoma,Mwanambuyu RHC,11/30/2009
+Kaoma,Nkenga RHC,12/1/2009
+Kaoma,ZNS Mangango RHC,12/1/2009
+Kaoma,Njonjolo RHC,12/2/2009
+Kaoma,Kahare RHC,12/2/2009
+Kaoma,Nakayembe RHC,12/3/2009
+Kaoma,Mulwa RHC,12/3/2009
+Kaoma,Chitwa RHC,12/4/2009
+Kaoma,Njonjolo RHC,12/4/2009
+Kaoma,Nkeyema RHC,12/5/2009
+Kaoma,Namilangi RHC,12/8/2009
+Kaoma,Katunda RHC,12/11/2009
+Kaoma,Winda RHC,12/12/2009
+Kaoma,Kabilamwandi HP,12/12/2009
+Kaoma,Kaaba RHC,12/23/2009
+Kaoma,Kasabi RHC,12/23/2009
+Kaoma,Luena Camp Hosp,12/24/2009
+Kaoma,Kaoma Urban HC,12/24/2009
+Kaoma,Mulamba Urban HC,12/24/2009
+Kaoma,Nyambi 1 RHC,12/25/2009
+Kaoma,Nyambi 2 RHC,12/25/2009
+Kaoma,Afumba RHC,12/25/2009
+Kaoma,Kandende RHC,12/29/2009
+Kaoma,Nkeyema RHC,12/29/2009
+Kaoma,Njonjolo RHC,12/29/2009
+Kaoma,Kabilamwandi HP,12/29/2009
+Kaoma,Mayukwayukwa 2 RHC,12/29/2009
+Kaoma,Mangango HAHC,12/29/2009
+Kaoma,Mangango MH,12/29/2009
+Kaoma,ZNS Mangango RHC,12/29/2009
+Kaoma,Luampa MH,12/29/2009
+Kaoma,Luampa HAHC,12/29/2009
+Kaoma,Luampa MH,12/30/2009
+Kaoma,Kahare RHC,12/30/2009
+Kaoma,Chitwa RHC,12/31/2009
+Kaoma,Kasimba RHC,12/31/2009
+Kaoma,Katunda RHC,1/6/2010
+Kaoma,Nakayembe RHC,1/16/2010
+Kaoma,Mulwa RHC,1/16/2010
+Kaoma,Nkeyema RHC,1/18/2010
+Kaoma,Nkenga RHC,1/21/2010
+Kaoma,Mwanambuyu RHC,1/21/2010
+Kaoma,Lui RHC,1/21/2010
+Kaoma,Chitwa RHC,1/22/2010
+Kaoma,Kasimba RHC,1/22/2010
+Kaoma,Luena Camp Hosp,1/22/2010
+Kaoma,Kaoma Urban HC,1/22/2010
+Kaoma,Mulamba Urban HC,1/22/2010
+Kaoma,Nyambi 1 RHC,1/23/2010
+Kaoma,Nyambi 2 RHC,1/23/2010
+Kaoma,Afumba RHC,1/23/2010
+Kaoma,Njonjolo RHC,1/25/2010
+Kaoma,Katunda RHC,1/25/2010
+Kaoma,ZNS Mangango RHC,1/25/2010
+Kaoma,Luampa HAHC,1/26/2010
+Kaoma,Luampa MH,1/26/2010
+Kaoma,Nyambi RHC,2/1/2010
+Kaoma,Kaaba RHC,2/15/2010
+Kaoma,Kasabi RHC,2/15/2010
+Kaoma,Mwanambuyu RHC,2/15/2010
+Kaoma,Nkeyema RHC,2/15/2010
+Kaoma,Luena Camp Hosp,2/16/2010
+Kaoma,Kabilamwandi RHC,2/17/2010
+Kaoma,Mulwa HP,2/17/2010
+Kaoma,Kaoma Urban HC,2/17/2010
+Kaoma,Mulamba RHC,2/17/2010
+Kaoma,St Josephs RHC,2/18/2010
+Kaoma,Namilangi RHC,2/18/2010
+Kaoma,Mayukwayukwa1 RHC,2/21/2010
+Kaoma,Mayukwayukwa2 RHC,2/21/2010
+Kaoma,Nkenga,3/11/2010
+Kaoma,Mulwa,3/11/2010
+Kaoma,Winda,3/11/2010
+Kaoma,Kasimba RHC,3/12/2010
+Kaoma,Chitwa RHC,3/12/2010
+Kaoma,Afumba RHC,3/13/2010
+Kaoma,Nyambi RHC,3/13/2010
+Kaoma,Nyambi 2 RHC,3/13/2010
+Kaoma,Luampa MH,3/13/2010
+Kaoma,Nkeyema RHC,3/15/2010
+Kaoma,Namilangi RHC,3/15/2010
+Kaoma,Kaoma Urban Clinic,3/16/2010
+Kaoma,Mulamba Urban Clinc,3/16/2010
+Kaoma,Luena Camp Hospital,3/16/2010
+Kaoma,Mangango MH,3/17/2010
+Kaoma,Mulwa HP,3/18/2010
+Kaoma,Nakayembe RHC,3/18/2010
+Kaoma,Mbanyutu RHC,3/18/2010
+Kaoma,Lui RHC,3/18/2010
+Kaoma,Chitwa RHC,3/18/2010
+Kaoma,Kasimba RHC,3/18/2010
+Kaoma,Katunda RHC,3/19/2010
+Kaoma,Mayukwayukwa 2 RHC,3/19/2010
+Kaoma,Namilangi RHC,3/19/2010
+Kaoma,Kahare RHC,3/19/2010
+Kaoma,Njonjolo RHC,3/19/2010
+Kaoma,Nkeyema RHC,3/19/2010
+Kaoma,Kahare RHC,3/25/2010
+Kaoma,Winda RHC,4/1/2010
+Kaoma,Kaaba RHC,4/1/2010
+Kaoma,Kasabi RHC,4/1/2010
+Kaoma,Mayukwayukwa RHC,4/1/2010
+Kaoma,Luena Camp Hospital,4/2/2010
+Kaoma,Mulwa RHC,4/8/2010
+Kaoma,Winda RHC,4/9/2010
+Kaoma,Kabilamwandi RHC,4/9/2010
+Kaoma,Mwanambuyu RHC,4/9/2010
+Kaoma,Kasimba RHC,4/19/2010
+Kaoma,Mulamba HC,4/20/2010
+Kaoma,Kaoma Urban HC,4/20/2010
+Kaoma,Mangango ZNS,4/20/2010
+Kaoma,Nyambi 2 RHC,4/20/2010
+Kaoma,Afumba RHC,4/20/2010
+Kaoma,Mayukwayukwa 2 RHC,4/21/2010
+Kaoma,Mayukwayukwa 2 RHC,4/21/2010
+Kaoma,Luena Camp Hospital,4/22/2010
+Kaoma,Namilangi RHC,4/22/2010
+Kaoma,Kahare RHC,4/23/2010
+Kaoma,Kandende RHC,4/23/2010
+Kaoma,Nkeyema RHC,4/23/2010
+Kaoma,Kasabi RHC,4/26/2010
+Kaoma,Katunda RHC,4/26/2010
+Kaoma,Lui RHC,4/26/2010
+Kaoma,Mwanambuyu RHC,4/26/2010
+Kaoma,Kaaba RHC,4/26/2010
+Kaoma,Mulwa HP,4/27/2010
+Kaoma,Nakayembe RHC,4/27/2010
+Kasama,Lukupa H/C,5/8/2009
+Kasama,Mwamba H/C,5/8/2009
+Kasama,Lukashi,5/8/2009
+Kasama,Musa,5/13/2009
+Kasama,Nkolemfumu,5/13/2009
+Kasama,Chanda Mukulu,5/13/2009
+Kasama,Mulanshi,5/15/2009
+Kasama,Mumbi Mukulu,5/15/2009
+Kasama,Mulobola,5/22/2009
+Kasama,Mbusa,5/22/2009
+Kasama,Kateshi H/C,5/26/2009
+Kasama,Milima,5/26/2009
+Kasama,Misamfu,5/26/2009
+Kasama,Chilubula,5/27/2009
+Kasama,Chilongoshi,5/27/2009
+Kasama,Misengo,5/27/2009
+Kasama,ZNS,5/27/2009
+Kasama,Chiombo,5/28/2009
+Kasama,Kasakula,5/28/2009
+Kasama,Munkonge,5/28/2009
+Kasama,Lubushi,5/28/2009
+Kasama,Army,5/29/2009
+Kasama,Kasama Urban,5/29/2009
+Kasama,Location,5/29/2009
+Kasama,Mulenga,6/1/2009
+Kasama,Tazara,6/1/2009
+Kasama,Chisanga,6/1/2009
+Kasama,College,6/1/2009
+Kasama,Chilubula,6/15/2009
+Kasama,Zns Chishimba,6/16/2009
+Kasama,Chilongoshi,6/16/2009
+Kasama,Misengo,6/16/2009
+Kasama,Location clinic,6/17/2009
+Kasama,Lukapa,6/18/2009
+Kasama,Mwamba,6/18/2009
+Kasama,Lukashi,6/18/2009
+Kasama,Lubushi,6/23/2009
+Kasama,Munkonge,6/23/2009
+Kasama,Chiombo,6/23/2009
+Kasama,kasakula,6/23/2009
+Kasama,Mulenga,6/24/2009
+Kasama,College,6/24/2009
+Kasama,Kateshi,6/25/2009
+Kasama,Milima,6/25/2009
+Kasama,Lukashya,6/25/2009
+Kasama,Misamfu,6/25/2009
+Kasama,Mbusa,6/26/2009
+Kasama,Mulobola,6/27/2009
+Kasama,Kasama urban,6/29/2009
+Kasama,Chisanga,6/29/2009
+Kasama,Musa,6/30/2009
+Kasama,Tazara,6/30/2009
+Kasama,Nkolemfumu,6/30/2009
+Kasama,Chanda Mukulu,6/30/2009
+Kasama,Mumbi Mfumu,7/1/2009
+Kasama,Mulanshi,7/1/2009
+Kasama,Mbusa RHC,7/1/2009
+Kasama,Mulobola RHC,7/1/2009
+Kasama,Mwamba RHC,7/3/2009
+Kasama,Lukupa RHC,7/3/2009
+Kasama,Army Clinic,7/21/2009
+Kasama,Location clinic,7/21/2009
+Kasama,Chilubula RHC,7/22/2009
+Kasama,Kasama Urban Clinic,7/22/2009
+Kasama,Chilongoshi RHC,7/23/2009
+Kasama,Misengo RHC,7/23/2009
+Kasama,ZNS Chishimba RHC,7/23/2009
+Kasama,Lubushi RHC,7/24/2009
+Kasama,Munkonge RHC,7/24/2009
+Kasama,Chanda Mukulu RHC,7/27/2009
+Kasama,Musa RHC,7/27/2009
+Kasama,Nkolemfumu RHC,7/27/2009
+Kasama,Mulanshi RHC,7/28/2009
+Kasama,Mumbi Mfumu RHC,7/28/2009
+Kasama,Chisanga RHC,7/29/2009
+Kasama,Tazara RHC,7/29/2009
+Kasama,Mulenga RHC,7/29/2009
+Kasama,College RHC,7/29/2009
+Kasama,Misamfu RHC,7/30/2009
+Kasama,Milima RHC,7/30/2009
+Kasama,Kateshi RHC,7/30/2009
+Kasama,Lukashya RHC,7/30/2009
+Kasama,Kasakula RHC,7/31/2009
+Kasama,Chiombo RHC,7/31/2009
+Kasama,Kateshi rhc,8/1/2009
+Kasama,Lukupa RHC,8/19/2009
+Kasama,Lukashi RHC,8/19/2009
+Kasama,Mwamba RHC,8/19/2009
+Kasama,Misengo RHC,8/20/2009
+Kasama,Chilongoshi RHC,8/20/2009
+Kasama,ZNS Chishimba RHC,8/20/2009
+Kasama,Chilubula RHC,8/20/2009
+Kasama,Mulobola RHC,8/22/2009
+Kasama,Mbusa RHC,8/22/2009
+Kasama,Mwasha RHC,8/22/2009
+Kasama,Mumbi Mukulu HP,8/22/2009
+Kasama,Army Clinic,8/24/2009
+Kasama,Location Clinic,8/24/2009
+Kasama,Kasama Urban Clinic,8/24/2009
+Kasama,Chiombo RHC,8/31/2009
+Kasama,Kasakula RHC,8/31/2009
+Kasama,Lubushi RHC,8/31/2009
+Kasama,Munkonge RHC,8/31/2009
+Kasama,Misamfu RHC,9/1/2009
+Kasama,Milima RHC,9/1/2009
+Kasama,Mumbi Mfumu RHC,9/2/2009
+Kasama,Tazara RHC,9/2/2009
+Kasama,Mulanshi RHC,9/2/2009
+Kasama,Army,9/2/2009
+Kasama,Kasama Urban,9/2/2009
+Kasama,Location,9/2/2009
+Kasama,Musa,9/3/2009
+Kasama,Nkolemfumu RHC,9/3/2009
+Kasama,Chanda Mukulu RHC,9/3/2009
+Kasama,Mulanshi RHC,9/3/2009
+Kasama,Mumbi Mfumu RHC,9/3/2009
+Kasama,Lukashya RHC,9/4/2009
+Kasama,College RHC,9/4/2009
+Kasama,Chisanga RHC,9/4/2009
+Kasama,Mulenga Hills clinic,9/4/2009
+Kasama,Lukupa RHC,9/22/2009
+Kasama,Mwamba RHC,9/22/2009
+Kasama,Lukashi RHC,9/22/2009
+Kasama,Chilubula RHC,9/23/2009
+Kasama,Misengo RHC,9/23/2009
+Kasama,Chilongoshi RHC,9/23/2009
+Kasama,ZNS Chishimba RHC,9/23/2009
+Kasama,Chiombo RHC,9/24/2009
+Kasama,Kasakula RHC,9/24/2009
+Kasama,Munkonge RHC,9/24/2009
+Kasama,Lubushi RHC,9/24/2009
+Kasama,Mumbi Mukulu RHC,9/28/2009
+Kasama,Mbusa RHC,9/28/2009
+Kasama,Mulobola RHC,9/28/2009
+Kasama,Musa RHC,9/29/2009
+Kasama,Nkolemfumu RHC,9/29/2009
+Kasama,Chanda Mukulu RHC,9/29/2009
+Kasama,Kateshi RHC,9/30/2009
+Kasama,Milima RHC,9/30/2009
+Kasama,Misamfu RHC,9/30/2009
+Kasama,Lukashya RHC,9/30/2009
+Kasama,Mulenga HP,10/1/2009
+Kasama,Tazara RHC,10/1/2009
+Kasama,Chisanga RHC,10/1/2009
+Kasama,College HP,10/1/2009
+Kasama,Army Clinic,10/20/2009
+Kasama,Kasama Urban Clinic,10/20/2009
+Kasama,Mulenga Hills,10/20/2009
+Kasama,College Clinic,10/20/2009
+Kasama,Location clinic,10/20/2009
+Kasama,Kateshi RHC,10/23/2009
+Kasama,Milima RHC,10/23/2009
+Kasama,Misamfu RHC,10/23/2009
+Kasama,Lukashya RHC,10/23/2009
+Kasama,Lukashi RHC,10/26/2009
+Kasama,Mwamba RHC,10/26/2009
+Kasama,Lukupa RHC,10/26/2009
+Kasama,Chilongoshi RHC,10/27/2009
+Kasama,Misengo RHC,10/27/2009
+Kasama,ZNS Chishimba RHC,10/27/2009
+Kasama,Chilubula RHC,10/27/2009
+Kasama,Lubushi RHC,10/28/2009
+Kasama,Chiombo RHC,10/28/2009
+Kasama,Kasakula RHC,10/28/2009
+Kasama,Munkonge RHC,10/28/2009
+Kasama,Mbusa RHC,10/29/2009
+Kasama,Mulobola RHC,10/29/2009
+Kasama,Mumbi Mukulu RHC,10/29/2009
+Kasama,Musa RHC,10/31/2009
+Kasama,Nkolemfumu RHC,10/31/2009
+Kasama,Chanda Mukulu RHC,10/31/2009
+Kasama,Mumbi Mfumu RHC,10/31/2009
+Kasama,Mulanshi RHC,10/31/2009
+Kasama,Tazara RHC,10/31/2009
+Kasama,Chisanga RHC,10/31/2009
+Kasama,Army Clinic,11/23/2009
+Kasama,Kasama Urban Clinic,11/23/2009
+Kasama,Location clinic,11/23/2009
+Kasama,Kateshi RHC,11/24/2009
+Kasama,Milima RHC,11/24/2009
+Kasama,Misamfu RHC,11/24/2009
+Kasama,Lukashi RHC,11/25/2009
+Kasama,Mwamba RHC,11/25/2009
+Kasama,Lukupa RHC,11/25/2009
+Kasama,Chilongoshi RHC,11/26/2009
+Kasama,Misengo RHC,11/26/2009
+Kasama,ZNS Chishimba RHC,11/26/2009
+Kasama,Chilubula RHC,11/26/2009
+Kasama,Lubushi RHC,11/27/2009
+Kasama,Chiombo RHC,11/27/2009
+Kasama,Kasakula RHC,11/27/2009
+Kasama,Munkonge RHC,11/27/2009
+Kasama,Musa RHC,12/1/2009
+Kasama,Nkolemfumu RHC,12/1/2009
+Kasama,Chanda Mukulu RHC,12/1/2009
+Kasama,Mumbi Mfumu RHC,12/2/2009
+Kasama,Mulanshi RHC,12/2/2009
+Kasama,Tazara RHC,12/3/2009
+Kasama,Chisanga RHC,12/3/2009
+Kasama,College Clinic,12/4/2009
+Kasama,Mulenga Hills,12/4/2009
+Kasama,Lukashya RHC,12/4/2009
+Kasama,Mbusa RHC,12/5/2009
+Kasama,Mulobola RHC,12/5/2009
+Kasama,Mumbi Mukulu RHC,12/5/2009
+Kasama,Tazara RHC,12/22/2009
+Kasama,Chisanga RHC,12/22/2009
+Kasama,College Clinic,12/23/2009
+Kasama,Mulenga Hills,12/23/2009
+Kasama,Lukashya RHC,12/23/2009
+Kasama,Mbusa RHC,12/24/2009
+Kasama,Mulobola RHC,12/24/2009
+Kasama,Mumbi Mukulu RHC,12/24/2009
+Kasama,Army Clinic,12/26/2009
+Kasama,Kasama Urban Clinic,12/26/2009
+Kasama,Location clinic,12/26/2009
+Kasama,Kateshi RHC,12/28/2009
+Kasama,Milima RHC,12/28/2009
+Kasama,Misamfu RHC,12/28/2009
+Kasama,Lukashi RHC,12/29/2009
+Kasama,Mwamba RHC,12/29/2009
+Kasama,Lukupa RHC,12/29/2009
+Kasama,Musa RHC,12/30/2009
+Kasama,Nkolemfumu RHC,12/30/2009
+Kasama,Chanda Mukulu RHC,12/30/2009
+Kasama,Lubushi RHC,12/31/2009
+Kasama,Chiombo RHC,12/31/2009
+Kasama,Kasakula RHC,12/31/2009
+Kasama,Munkonge RHC,12/31/2009
+Kasama,Mulanshi RHC,1/4/2010
+Kasama,Mumbi Mfumu RHC,1/4/2010
+Kasama,Chilubula RHC,1/5/2010
+Kasama,ZNS Chishimba RHC,1/5/2010
+Kasama,Misengo RHC,1/5/2010
+Kasama,Chilongoshi RHC,1/5/2010
+Kasama,Kasama Urban,1/18/2010
+Kasama,Army Clinic,1/18/2010
+Kasama,Tazara,1/19/2010
+Kasama,Chisanga RHC,1/19/2010
+Kasama,College RHC,1/19/2010
+Kasama,Musa RHC,1/24/2010
+Kasama,Nkolemfumu RHC,1/24/2010
+Kasama,Chanda Mukulu RHC,1/24/2010
+Kasama,Mumbi Mfumu RHC,1/25/2010
+Kasama,Mulanshi RHC,1/25/2010
+Kasama,Chanda Mukulu RHC,1/26/2010
+Kasama,Musa RHC,1/26/2010
+Kasama,Nkolemfumu RHC,1/26/2010
+Kasama,Chiombo RHC,1/27/2010
+Kasama,Kasakula RHC,1/27/2010
+Kasama,Chiombo RHC,1/27/2010
+Kasama,Kasakula RHC,1/27/2010
+Kasama,Mbusa RHC,1/28/2010
+Kasama,Mumbi Mukulu RHC,1/28/2010
+Kasama,Mulobola RHC,1/28/2010
+Kasama,Mulenga RHC,1/29/2010
+Kasama,Location RHC,1/29/2010
+Kasama,Lukashya RHC,1/29/2010
+Kasama,Lukupa RHC,2/1/2010
+Kasama,Lukashi RHC,2/1/2010
+Kasama,Mwamba RHC,2/1/2010
+Kasama,Misengo RHC,2/2/2010
+Kasama,Chilubula RHC,2/2/2010
+Kasama,ZNS Chishimba,2/2/2010
+Kasama,Chilongoshi RHC,2/2/2010
+Kasama,Kateshi RHC,2/3/2010
+Kasama,Milima RHC,2/3/2010
+Kasama,Misamfu RHC,2/3/2010
+Kasama,Lubushi RHC,2/4/2010
+Kasama,Munkonge RHC,2/4/2010
+Kasama,Location Clinic,2/16/2010
+Kasama,Chisanga Clinic,2/16/2010
+Kasama,Kasama Urban Clinic,2/17/2010
+Kasama,Lukashya RHC,2/17/2010
+Kasama,College RHC,2/18/2010
+Kasama,Mulenga RHC,2/18/2010
+Kasama,Mulanshi,2/19/2010
+Kasama,Tazara,2/19/2010
+Kasama,Misengo RHC,2/22/2010
+Kasama,Chilongoshi RHC,2/22/2010
+Kasama,ZNS Chishimba RHC,2/22/2010
+Kasama,Chilubula RHC,2/22/2010
+Kasama,Kasakula RHC,2/23/2010
+Kasama,Chiombo RHC,2/23/2010
+Kasama,Munkonge RHC,2/23/2010
+Kasama,Lubushi RHC,2/23/2010
+Kasama,Kateshi RHC,2/25/2010
+Kasama,Milima RHC,2/25/2010
+Kasama,Misamfu RHC,2/25/2010
+Kasama,Mwamba RHC,2/26/2010
+Kasama,Lukupa RHC,2/26/2010
+Kasama,Kasama Urban Clinic,3/17/2010
+Kasama,Lukashya RHC,3/17/2010
+Kasama,Location Clinic,3/18/2010
+Kasama,Chisanga Clinic,3/18/2010
+Kasama,College RHC,3/19/2010
+Kasama,Mulenga RHC,3/19/2010
+Kasama,Lukupa RHC,3/22/2010
+Kasama,Lukashi RHC,3/22/2010
+Kasama,Mwamba RHC,3/22/2010
+Kasama,Misengo RHC,3/23/2010
+Kasama,Chilubula RHC,3/23/2010
+Kasama,ZNS Chishimba,3/23/2010
+Kasama,Chilongoshi RHC,3/23/2010
+Kasama,Kateshi RHC,3/24/2010
+Kasama,Milima RHC,3/24/2010
+Kasama,Misamfu RHC,3/24/2010
+Kasama,Lubushi RHC,3/25/2010
+Kasama,Munkonge RHC,3/25/2010
+Kasama,Chiombo RHC,3/25/2010
+Kasama,Kasakula RHC,3/25/2010
+Kasama,Mulanshi,3/26/2010
+Kasama,Tazara,3/26/2010
+Kasama,Mumbi Mfumu RHC,3/26/2010
+Kasama,Musa RHC,3/28/2010
+Kasama,Nkolemfumu RHC,3/28/2010
+Kasama,Chanda Mukulu RHC,3/28/2010
+Kasama,Mulobola RHC,3/29/2010
+Kasama,Mbusa RHC,3/29/2010
+Kasama,Mumbi Mukulu RHC,3/29/2010
+Kasama,Musa RHC,4/16/2010
+Kasama,Chanda Mukulu RHC,4/16/2010
+Kasama,Location Clinic,4/19/2010
+Kasama,Chisanga Clinic,4/19/2010
+Kasama,Kasama Urban Clinic,4/20/2010
+Kasama,Lukashya RHC,4/20/2010
+Kasama,College RHC,4/21/2010
+Kasama,Mulenga RHC,4/21/2010
+Kasama,Army Clinic,4/21/2010
+Kasama,Lukupa RHC,4/22/2010
+Kasama,Lukashi RHC,4/22/2010
+Kasama,Mwamba RHC,4/22/2010
+Kasama,Kateshi RHC,4/23/2010
+Kasama,Milima RHC,4/23/2010
+Kasama,Misamfu RHC,4/24/2010
+Kasama,Mulanshi,4/26/2010
+Kasama,Tazara,4/26/2010
+Kasama,Mumbi Mfumu RHC,4/26/2010
+Kasama,Nkolemfumu RHC,4/26/2010
+Kasama,Mulobola RHC,4/28/2010
+Kasama,Mbusa RHC,4/28/2010
+Kasama,Mumbi Mukulu RHC,4/28/2010
+Kasama,Lubushi RHC,4/29/2010
+Kasama,Munkonge RHC,4/29/2010
+Kasama,Chiombo RHC,4/29/2010
+Kasama,Kasakula RHC,4/29/2010
+Kasama,Misengo RHC,4/30/2010
+Kasama,Chilubula RHC,4/30/2010
+Kasama,ZNS Chishimba,4/30/2010
+Kasama,Chilongoshi RHC,4/30/2010
+Milenge,Milenge RHC,4/9/2009
+Milenge,Sokontwe RHC,4/14/2009
+Milenge,Sokontwe RHC,4/14/2009
+Milenge,Milenge RHC,4/16/2009
+Milenge,Sokontwe RHC,4/16/2009
+Milenge,Milenge RHC,4/16/2009
+Milenge,Sokontwe RHC,4/16/2009
+Milenge,Kapalala RHC,4/17/2009
+Milenge,Lungo Mukuta RHC,4/17/2009
+Milenge,Kapalala RHC,4/17/2009
+Milenge,Lungo Mukuta RHC,4/17/2009
+Milenge,Milenge RHC,5/14/2009
+Milenge,Milenge RHC,5/19/2009
+Milenge,Sokontwe RHC,5/20/2009
+Milenge,Kapalala RHC,5/21/2009
+Milenge,Lungo Mukuta RHC,5/21/2009
+Milenge,Chibende RHC,5/26/2009
+Milenge,Lwela RHC,5/26/2009
+Milenge,Mulumbi RHC,5/26/2009
+Milenge,Kabange RHC,5/26/2009
+Milenge,Milenge RHC,6/8/2009
+Milenge,Lungo Mukuta RHC,6/11/2009
+Milenge,Kapalala RHC,6/12/2009
+Milenge,Sokontwe RHC,6/12/2009
+Milenge,Mulumbi RHC,6/14/2009
+Milenge,Kabange RHC,6/14/2009
+Milenge,Lwela,6/14/2009
+Milenge,Chibende,6/14/2009
+Milenge,Sokontwe RHC,6/23/2009
+Milenge,Kapalala RHC,6/23/2009
+Milenge,Milenge RHC,6/24/2009
+Milenge,Chibende RHC,6/25/2009
+Milenge,Mulumbi RHC,6/25/2009
+Milenge,Lwela RHC,6/25/2009
+Milenge,Milenge RHC,7/7/2009
+Milenge,Sokontwe RHC,7/8/2009
+Milenge,Kapalala RHC,7/8/2009
+Milenge,Sokontwe RHC,7/12/2009
+Milenge,Mulumbi,7/12/2009
+Milenge,Kabange,7/12/2009
+Milenge,Lwela,7/12/2009
+Milenge,Chibende,7/12/2009
+Milenge,Milenge RHC,8/11/2009
+Milenge,Kapalala RHC,8/12/2009
+Milenge,Sokontwe RHC,8/13/2009
+Milenge,Lungo Mukuta,8/15/2009
+Milenge,Lungo Mukuta,8/17/2009
+Milenge,Mulumbi RHC,8/20/2009
+Milenge,Kabange RHC,8/20/2009
+Milenge,Lwela,8/20/2009
+Milenge,Chibende,8/20/2009
+Milenge,Milenge RHC,9/4/2009
+Milenge,Milenge RHC,9/4/2009
+Milenge,Kapalala RHC,9/14/2009
+Milenge,Mulumbi RHC,9/14/2009
+Milenge,Kabange RHC,9/14/2009
+Milenge,Chibende RHC,9/15/2009
+Milenge,Lwela RHC,9/15/2009
+Milenge,Kapalala RHC,9/17/2009
+Milenge,Sokontwe RHC,9/18/2009
+Milenge,Milenge RHC,9/18/2009
+Milenge,Lungo Mukuta RHC,9/30/2009
+Milenge,Lungo Mukuta RHC,10/8/2009
+Milenge,Milenge RHC,10/9/2009
+Milenge,Lwela RHC,10/12/2009
+Milenge,Mulumbi RHC,10/13/2009
+Milenge,Milenge RHC,10/14/2009
+Milenge,Kapalala RHC,10/19/2009
+Milenge,Sokontwe RHC,10/19/2009
+Milenge,Chibende RHC,10/20/2009
+Milenge,Kabange RHC,10/20/2009
+Milenge,Milenge RHC,10/26/2009
+Milenge,Lungo Mukuta,11/6/2009
+Milenge,Kapalala RHC,11/16/2009
+Milenge,Milenge RHC,11/16/2009
+Milenge,Sokontwe RHC,11/16/2009
+Milenge,Kabange,11/19/2009
+Milenge,Mulumbi,11/19/2009
+Milenge,Chibende,11/20/2009
+Milenge,Lwela,11/20/2009
+Milenge,Milenge RHC,11/25/2009
+Milenge,Sokontwe RHC,11/26/2009
+Milenge,Lungo Mukuta RHC,11/28/2009
+Milenge,Lungo Mukuta RHC,12/1/2009
+Milenge,Milenge RHC,12/5/2009
+Milenge,Kapalala RHC,12/19/2009
+Milenge,Sokontwe RHC,12/21/2009
+Milenge,Kabange RHC,12/23/2009
+Milenge,Chibende RHC,12/23/2009
+Milenge,Mulumbi RHC,12/23/2009
+Milenge,Lwela RHC,12/23/2009
+Milenge,Milenge RHC,12/30/2009
+Milenge,Lungo Mukuta RHC,1/5/2010
+Milenge,Milenge RHC,1/6/2010
+Milenge,Lwela RHC,1/8/2010
+Milenge,Mulumbi RHC,1/8/2010
+Milenge,Kabange RHC,1/8/2010
+Milenge,Chibende RHC,1/8/2010
+Milenge,Sokontwe RHC,1/11/2010
+Milenge,Kapalala RHC,1/12/2010
+Milenge,Kapalala RHC,1/20/2010
+Milenge,Kapalala RHC,2/9/2010
+Milenge,Milenge RHC,2/9/2010
+Milenge,Sokontwe RHC,2/10/2010
+Milenge,Lwela,2/12/2010
+Milenge,Chibende,2/12/2010
+Milenge,Kabange,2/12/2010
+Milenge,Mulumbi,2/12/2010
+Milenge,Milenge RHC,2/25/2010
+Milenge,Lungo Mukuta RHC,4/9/2010
+Milenge,Milenge RHC,4/10/2010
+Milenge,Kapalala RHC,4/15/2010
+Milenge,Sokontwe RHC,4/17/2010
+Milenge,Kapalala RHC,4/17/2010
+Milenge,Kabange RHC,4/19/2010
+Milenge,Mulumbi RHC,4/19/2010
+Milenge,Lwela RHC,4/20/2010
+Milenge,Chibende RHC,4/20/2010
+Milenge,Lungo Mukuta RHC,4/24/2010
+Mkushi,Fiwila Mission,5/4/2009
+Mkushi,Chibefwe,5/4/2009
+Mkushi,Kaundula,5/5/2009
+Mkushi,Chikupili,5/6/2009
+Mkushi,Miloso,5/6/2009
+Mkushi,Mkushi Coppermine,5/8/2009
+Mkushi,Mboroma,5/9/2009
+Mkushi,Nkumbi,5/11/2009
+Mkushi,Luanshimba ZNS,5/14/2009
+Mkushi,Chingombe,5/14/2009
+Mkushi,Chibefwe,5/14/2009
+Mkushi,Nshinso,5/15/2009
+Mkushi,Kaundula,5/15/2009
+Mkushi,Chibefwe,5/15/2009
+Mkushi,Chalata,5/15/2009
+Mkushi,Chibefwe,5/18/2009
+Mkushi,Munsakamba ZNS,5/20/2009
+Mkushi,Luanshimba ZNS,5/20/2009
+Mkushi,Twatasha,5/26/2009
+Mkushi,Kaundula,5/26/2009
+Mkushi,Chibefwe,5/26/2009
+Mkushi,Masansa,5/27/2009
+Mkushi,Fiwila Mission,5/28/2009
+Mkushi,Mkushi District Hospital,5/28/2009
+Mkushi,Mboroma,5/29/2009
+Mkushi,Chingombe,5/30/2009
+Mkushi,Mboshya,5/31/2009
+Mkushi,Chikupili,6/8/2009
+Mkushi,Musofu,6/8/2009
+Mkushi,Chibefwe,6/8/2009
+Mkushi,Chibefwe,6/9/2009
+Mkushi,Musofu,6/9/2009
+Mkushi,Chimika,6/9/2009
+Mkushi,Mboshya,6/9/2009
+Mkushi,Masansa,6/9/2009
+Mkushi,Nkolonga,6/9/2009
+Mkushi,Mboroma,6/11/2009
+Mkushi,Kakushi,6/12/2009
+Mkushi,Fiwila,6/15/2009
+Mkushi,Mboroma,6/16/2009
+Mkushi,Kampelembe,6/19/2009
+Mkushi,Chikupili,6/22/2009
+Mkushi,Kampelembe,6/22/2009
+Mkushi,Mkushi Coppermine,6/22/2009
+Mkushi,Nkumbi,6/22/2009
+Mkushi,Nshinso,6/22/2009
+Mkushi,Old Mkushi,6/22/2009
+Mkushi,Chalata,6/23/2009
+Mkushi,Kakushi,6/23/2009
+Mkushi,Luanshimba,6/23/2009
+Mkushi,Miloso,6/23/2009
+Mkushi,Nshinso,6/23/2009
+Mkushi,Munsakamba,6/24/2009
+Mkushi,Old Mkushi,6/25/2009
+Mkushi,Twatasha,6/29/2009
+Mkushi,Chibefwe,6/30/2009
+Mkushi,Kaundula,6/30/2009
+Mkushi,Mboroma,6/30/2009
+Mkushi,Old Mkushi,7/1/2009
+Mkushi,Chikupili,7/1/2009
+Mkushi,Kampelembe,7/1/2009
+Mkushi,Chalata,7/2/2009
+Mkushi,Nkolonga,7/3/2009
+Mkushi,Nshinso,7/3/2009
+Mkushi,Kaundula,7/3/2009
+Mkushi,Kakushi,7/3/2009
+Mkushi,Fiwila,7/8/2009
+Mkushi,Twatasha,7/9/2009
+Mkushi,Luanshimba,7/9/2009
+Mkushi,Kampelembe,7/9/2009
+Mkushi,Kampelembe,7/10/2009
+Mkushi,Nkolonga,7/12/2009
+Mkushi,Chalata,7/12/2009
+Mkushi,Nshinso,7/12/2009
+Mkushi,Luanshimba,7/12/2009
+Mkushi,Kakushi,7/12/2009
+Mkushi,Miloso,7/12/2009
+Mkushi,Twatasha,7/12/2009
+Mkushi,Masansa,7/13/2009
+Mkushi,Fiwila,7/13/2009
+Mkushi,Kampelembe,7/13/2009
+Mkushi,Old Mkushi,7/13/2009
+Mkushi,Chikupili,7/13/2009
+Mkushi,Mkushi Coppermine,7/16/2009
+Mkushi,Kaundula,7/17/2009
+Mkushi,Musofu,7/20/2009
+Mkushi,Munsakamba,7/20/2009
+Mkushi,Nkumbi,7/20/2009
+Mkushi,Chibefwe,7/30/2009
+Mkushi,Miloso,7/30/2009
+Mkushi,Chembe,8/5/2009
+Mkushi,Chibefwe,8/5/2009
+Mkushi,Chalata,8/6/2009
+Mkushi,Nkolonga,8/6/2009
+Mkushi,Nshinso,8/6/2009
+Mkushi,Munsakamba,8/7/2009
+Mkushi,Luanshimba,8/7/2009
+Mkushi,Mboshya,8/7/2009
+Mkushi,Musofu,8/8/2009
+Mkushi,Nkumbi,8/8/2009
+Mkushi,Mkushi Coppermine,8/8/2009
+Mkushi,Twatasha,8/9/2009
+Mkushi,Masansa,8/9/2009
+Mkushi,Chikupili,8/9/2009
+Mkushi,Kampelembe,8/9/2009
+Mkushi,Old Mkushi,8/9/2009
+Mkushi,Kakushi,8/10/2009
+Mkushi,Miloso,8/10/2009
+Mkushi,Munsakamba,8/11/2009
+Mkushi,Kaundula,8/11/2009
+Mkushi,Chibefwe,8/12/2009
+Mkushi,Miloso,8/12/2009
+Mkushi,Chalata,8/13/2009
+Mkushi,Old Mkushi,8/17/2009
+Mkushi,Luanshimba,8/20/2009
+Mkushi,Fiwila,8/20/2009
+Mkushi,Kampelembe,8/21/2009
+Mkushi,Chikupili,8/21/2009
+Mkushi,Kakushi,8/21/2009
+Mkushi,Nshinso,8/25/2009
+Mkushi,Kaundula,8/27/2009
+Mkushi,Kaundula,8/31/2009
+Mkushi,Chibefwe,9/2/2009
+Mkushi,Nkolonga,9/2/2009
+Mkushi,Chalata,9/2/2009
+Mkushi,Chikupili,9/2/2009
+Mkushi,Chengelo,9/3/2009
+Mkushi,Mboroma,9/3/2009
+Mkushi,Ching’ombe,9/3/2009
+Mkushi,Mboshya,9/4/2009
+Mkushi,Fiwila,9/7/2009
+Mkushi,Nshinso,9/8/2009
+Mkushi,Chimika,9/9/2009
+Mkushi,Chalata,9/9/2009
+Mkushi,Chembe,9/10/2009
+Mkushi,Chibefwe,9/10/2009
+Mkushi,Nkolonga,9/15/2009
+Mkushi,Musofu,9/16/2009
+Mkushi,Chibefwe,9/17/2009
+Mkushi,Munsakamba,9/17/2009
+Mkushi,Ching’ombe,9/17/2009
+Mkushi,Mboroma,9/17/2009
+Mkushi,Masansa,9/18/2009
+Mkushi,Twatasha,9/18/2009
+Mkushi,Kampelembe,9/19/2009
+Mkushi,Old Mkushi,9/19/2009
+Mkushi,Nshinso,9/21/2009
+Mkushi,Mkushi Coppermine,9/21/2009
+Mkushi,Chikupili,9/21/2009
+Mkushi,Chengelo,9/22/2009
+Mkushi,Munsakamba,9/23/2009
+Mkushi,Mboroma,9/23/2009
+Mkushi,Chibefwe,9/24/2009
+Mkushi,Twatasha,9/24/2009
+Mkushi,Kaundula,9/24/2009
+Mkushi,Fiwila,9/25/2009
+Mkushi,Miloso,9/29/2009
+Mkushi,Kakushi,9/29/2009
+Mkushi,Musofu,10/5/2009
+Mkushi,Mboroma,10/5/2009
+Mkushi,Miloso,10/5/2009
+Mkushi,Nkumbi,10/7/2009
+Mkushi,Chalata,10/9/2009
+Mkushi,Chibefwe,10/12/2009
+Mkushi,Chibefwe,10/10/2009
+Mkushi,Munsakamba,10/10/2009
+Mkushi,Musofu,10/14/2009
+Mkushi,Nkumbi,10/14/2009
+Mkushi,Chalata,10/16/2009
+Mkushi,Chengelo,10/16/2009
+Mkushi,Moffat,10/16/2009
+Mkushi,Nkolonga,10/16/2009
+Mkushi,Luanshimba,10/16/2009
+Mkushi,Nshinso,10/16/2009
+Mkushi,Miloso,10/20/2009
+Mkushi,Kakushi,10/20/2009
+Mkushi,Twatasha,10/20/2009
+Mkushi,Fiwila,10/20/2009
+Mkushi,Kaundula,10/20/2009
+Mkushi,Chikupili,10/21/2009
+Mkushi,Kampelembe,10/21/2009
+Mkushi,Masansa,10/22/2009
+Mkushi,Mkushi Coppermine,10/22/2009
+Mkushi,Chimika,10/30/2009
+Mkushi,Mboroma,10/31/2009
+Mkushi,Chibefwe,11/3/2009
+Mkushi,Fiwila,11/6/2009
+Mkushi,Kaundula,11/6/2009
+Mkushi,Nkumbi,11/6/2009
+Mkushi,Chibefwe,11/9/2009
+Mkushi,Nkumbi,11/9/2009
+Mkushi,Mkushi District Hospital,11/10/2009
+Mkushi,Masansa,11/10/2009
+Mkushi,Mkushi Coppermine,11/10/2009
+Mkushi,Munsakamba,11/11/2009
+Mkushi,Luanshimba,11/11/2009
+Mkushi,Moffat,11/11/2009
+Mkushi,Mkushi District Hospital,11/12/2009
+Mkushi,Chengelo,11/12/2009
+Mkushi,Kampelembe,11/12/2009
+Mkushi,Old Mkushi,11/12/2009
+Mkushi,Chalata,11/16/2009
+Mkushi,Mboshya,11/16/2009
+Mkushi,Nshinso,11/18/2009
+Mkushi,Chembe,11/19/2009
+Mkushi,Fiwila,11/20/2009
+Mkushi,Kaundula,11/20/2009
+Mkushi,Mkushi District Hospital,11/23/2009
+Mkushi,Ching’ombe,11/24/2009
+Mkushi,Twatasha,11/25/2009
+Mkushi,Chalata,11/26/2009
+Mkushi,Nkolonga,11/26/2009
+Mkushi,Kakushi,11/29/2009
+Mkushi,Musofu,11/30/2009
+Mkushi,Chikupili,12/3/2009
+Mkushi,Masansa,12/3/2009
+Mkushi,Kaundula,12/3/2009
+Mkushi,Moffat,12/3/2009
+Mkushi,Fiwila,12/3/2009
+Mkushi,Nkolonga,12/3/2009
+Mkushi,Kampelembe,12/3/2009
+Mkushi,Chibefwe,12/4/2009
+Mkushi,Chalata,12/4/2009
+Mkushi,Chengelo,12/4/2009
+Mkushi,Miloso,12/4/2009
+Mkushi,Kakushi,12/4/2009
+Mkushi,Nshinso,12/4/2009
+Mkushi,Mboroma,12/5/2009
+Mkushi,Nkumbi,12/5/2009
+Mkushi,Luanshimba,12/7/2009
+Mkushi,Ching’ombe,12/8/2009
+Mkushi,Mboshya,12/8/2009
+Mkushi,Twatasha,12/10/2009
+Mkushi,Musofu,12/10/2009
+Mkushi,Mkushi Coppermine,12/11/2009
+Mkushi,Munsakamba,12/15/2009
+Mkushi,Masansa,1/2/2010
+Mkushi,Fiwila,1/2/2010
+Mkushi,Mboroma,1/2/2010
+Mkushi,Old Mkushi,1/3/2010
+Mkushi,Kaundula,1/6/2010
+Mkushi,Chibefwe,1/7/2010
+Mkushi,Kakushi,1/8/2010
+Mkushi,Musofu,1/11/2010
+Mkushi,Nkumbi,1/12/2010
+Mkushi,Mkushi District Hospital,1/13/2010
+Mkushi,Munsakamba,1/13/2010
+Mkushi,Mkushi District Hospital,1/14/2010
+Mkushi,Chibefwe,1/18/2010
+Mkushi,Mkushi District Hospital,1/19/2010
+Mkushi,Chalata,1/19/2010
+Mkushi,Nkumbi,1/19/2010
+Mkushi,Chikupili,1/20/2010
+Mkushi,Chibefwe,1/25/2010
+Mkushi,Chibefwe,1/27/2010
+Mkushi,Nshinso,2/4/2010
+Mkushi,Chengelo,2/4/2010
+Mkushi,Nkumbi,2/4/2010
+Mkushi,Chibefwe,2/4/2010
+Mkushi,Mkushi District Hospital,2/5/2010
+Mkushi,Moffat,2/5/2010
+Mkushi,Musofu,2/8/2010
+Mkushi,Nkolonga,2/8/2010
+Mkushi,Miloso,2/8/2010
+Mkushi,Kakushi,2/8/2010
+Mkushi,Luanshimba,2/8/2010
+Mkushi,Chalata,2/8/2010
+Mkushi,Twatasha,2/8/2010
+Mkushi,Nshinso,2/9/2010
+Mkushi,Masansa,2/10/2010
+Mkushi,Munsakamba,2/12/2010
+Mkushi,Mkushi Coppermine,2/12/2010
+Mkushi,Chikupili,2/15/2010
+Mkushi,Munsakamba,2/17/2010
+Mkushi,Kampelembe,2/17/2010
+Mkushi,Old Mkushi,2/17/2010
+Mkushi,Chembe,2/18/2010
+Mkushi,Chibefwe,2/22/2010
+Mkushi,Musofu,2/22/2010
+Mkushi,Kaundula,2/22/2010
+Mkushi,Fiwila,2/22/2010
+Mkushi,Mboroma,2/23/2010
+Mkushi,Mkushi Coppermine,2/25/2010
+Mkushi,Chikupili,2/26/2010
+Mkushi,Mboroma,3/4/2010
+Mkushi,Masansa,3/4/2010
+Mkushi,Nshinso,3/4/2010
+Mkushi,Chibefwe,3/4/2010
+Mkushi,Chengelo,3/4/2010
+Mkushi,Moffat,3/4/2010
+Mkushi,Munsakamba,3/5/2010
+Mkushi,Chalata,3/9/2010
+Mkushi,Musofu,3/9/2010
+Mkushi,Luanshimba,3/9/2010
+Mkushi,Masansa,3/10/2010
+Mkushi,Chikupili,3/10/2010
+Mkushi,Kampelembe,3/10/2010
+Mkushi,Nkumbi,3/13/2010
+Mkushi,Twatasha,3/13/2010
+Mkushi,Kakushi,3/13/2010
+Mkushi,Mkushi Coppermine,3/15/2010
+Mkushi,Kaundula,3/15/2010
+Mkushi,Fiwila,3/21/2010
+Mkushi,Old Mkushi,3/21/2010
+Mkushi,Chikupili,3/25/2010
+Mkushi,Miloso,4/6/2010
+Mkushi,Nkumbi,4/8/2010
+Mkushi,Chibefwe,4/9/2010
+Mkushi,Kaundula,4/9/2010
+Mkushi,Nshinso,4/9/2010
+Mkushi,Chengelo,4/9/2010
+Mkushi,Moffat,4/9/2010
+Mkushi,Nkolonga,4/9/2010
+Mkushi,Mkushi District Hospital,4/9/2010
+Mkushi,Miloso,4/12/2010
+Mkushi,Munsakamba,4/13/2010
+Mkushi,Kakushi,4/15/2010
+Mkushi,Chikupili,4/15/2010
+Mkushi,Chalata,4/16/2010
+Mkushi,Twatasha,4/16/2010
+Mkushi,Luanshimba,4/16/2010
+Mkushi,Fiwila,4/16/2010
+Mkushi,Nkolonga,4/19/2010
+Mkushi,Mkushi Coppermine,4/19/2010
+Mkushi,Chibefwe,4/20/2010
+Mkushi,Nkumbi,4/20/2010
+Mkushi,Mboroma,4/22/2010
+Mkushi,Masansa,4/25/2010
+Mkushi,Cholera Centre,4/25/2010
+Mkushi,Kaundula,4/26/2010
+Mkushi,Kampelembe,4/27/2010
+Mufumbwe,kinkonge,5/24/2009
+Mufumbwe,kalengwa,5/25/2009
+Mufumbwe,lubilo,5/25/2009
+Mufumbwe,kabipupu,5/26/2009
+Mufumbwe,hospital,5/28/2009
+Mufumbwe,boma,5/28/2009
+Mufumbwe,matushi,5/29/2009
+Mufumbwe,Mufumbwe HAAC,6/7/2009
+Mufumbwe,kaminzekenzeke,6/11/2009
+Mufumbwe,mushima,6/11/2009
+Mufumbwe,kabanda,6/11/2009
+Mufumbwe,hospital,6/18/2009
+Mufumbwe,Kashima,6/18/2009
+Mufumbwe,lubilo,6/26/2009
+Mufumbwe,matushi,6/26/2009
+Mufumbwe,kalengwa,6/27/2009
+Mufumbwe,kabipupu,6/27/2009
+Mufumbwe,boma,7/1/2009
+Mufumbwe,Mufumbwe HAAC,7/5/2009
+Mufumbwe,Mufumbwe HAAC,7/5/2009
+Mufumbwe,Kinkonge,7/7/2009
+Mufumbwe,Kashima,7/8/2009
+Mufumbwe,matushi,7/8/2009
+Mufumbwe,Munyambala,7/8/2009
+Mufumbwe,Jivundu,7/8/2009
+Mufumbwe,hospital,7/16/2009
+Mufumbwe,kaminzekenzeke,7/16/2009
+Mufumbwe,mushima,7/16/2009
+Mufumbwe,kabanda,7/16/2009
+Mufumbwe,hospital,7/16/2009
+Mufumbwe,kalengwa,7/23/2009
+Mufumbwe,kabipupu,7/23/2009
+Mufumbwe,kalengwa,7/23/2009
+Mufumbwe,kabipupu,7/23/2009
+Mufumbwe,boma,7/24/2009
+Mufumbwe,lubilo,7/27/2009
+Mufumbwe,jivundu,7/27/2009
+Mufumbwe,miluji,8/11/2009
+Mufumbwe,lubilo,8/14/2009
+Mufumbwe,Kashima,8/18/2009
+Mufumbwe,matushi,8/18/2009
+Mufumbwe,boma,8/19/2009
+Mufumbwe,Munyambala,8/25/2009
+Mufumbwe,Kinkonge,8/25/2009
+Mufumbwe,kaminzekenzeke,8/31/2009
+Mufumbwe,mushima,8/31/2009
+Mufumbwe,kabanda,8/31/2009
+Mufumbwe,Mufumbwe HAAC,9/10/2009
+Mufumbwe,miluji,9/11/2009
+Mufumbwe,hospital,9/16/2009
+Mufumbwe,Kashima,9/21/2009
+Mufumbwe,lubilo,9/21/2009
+Mufumbwe,matushi,9/21/2009
+Mufumbwe,Munyambala,9/21/2009
+Mufumbwe,kalengwa,9/22/2009
+Mufumbwe,kabipupu,9/22/2009
+Mufumbwe,kaminzekenzeke,9/23/2009
+Mufumbwe,mushima,9/23/2009
+Mufumbwe,kabanda,9/23/2009
+Mufumbwe,Kinkonge,9/25/2009
+Mufumbwe,boma,9/25/2009
+Mufumbwe,Mufumbwe HAAC,10/7/2009
+Mufumbwe,hospital,10/22/2009
+Mufumbwe,Kashima,10/26/2009
+Mufumbwe,lubilo,10/26/2009
+Mufumbwe,matushi,10/26/2009
+Mufumbwe,Munyambala,10/26/2009
+Mufumbwe,kalengwa,10/27/2009
+Mufumbwe,kabipupu,10/27/2009
+Mufumbwe,Kinkonge,10/28/2009
+Mufumbwe,boma,10/28/2009
+Mufumbwe,kaminzekenzeke,10/29/2009
+Mufumbwe,mushima,10/29/2009
+Mufumbwe,kabanda,10/29/2009
+Mufumbwe,Mufumbwe HAAC,11/7/2009
+Mufumbwe,miluji,11/13/2009
+Mufumbwe,hospital,11/20/2009
+Mufumbwe,lubilo,11/20/2009
+Mufumbwe,Kinkonge,11/25/2009
+Mufumbwe,boma,11/25/2009
+Mufumbwe,Kashima,11/29/2009
+Mufumbwe,matushi,11/29/2009
+Mufumbwe,Munyambala,11/29/2009
+Mufumbwe,jivundu,11/29/2009
+Mufumbwe,kalengwa,11/30/2009
+Mufumbwe,kabipupu,11/30/2009
+Mufumbwe,kaminzekenzeke,11/30/2009
+Mufumbwe,mushima,11/30/2009
+Mufumbwe,kabanda,11/30/2009
+Mufumbwe,Mufumbwe HAAC,12/9/2009
+Mufumbwe,hospital,12/12/2009
+Mufumbwe,boma,12/23/2009
+Mufumbwe,Kinkonge,12/28/2009
+Mufumbwe,Kashima,12/30/2009
+Mufumbwe,lubilo,12/30/2009
+Mufumbwe,matushi,12/30/2009
+Mufumbwe,Munyambala,12/30/2009
+Mufumbwe,jivundu,12/30/2009
+Mufumbwe,kalengwa,12/31/2009
+Mufumbwe,kabipupu,12/31/2009
+Mufumbwe,kaminzekenzeke,12/31/2009
+Mufumbwe,kabanda,1/4/2010
+Mufumbwe,Mufumbwe HAAC,1/14/2010
+Mufumbwe,hospital,1/14/2010
+Mufumbwe,lubilo,1/15/2010
+Mufumbwe,Munyambala,1/15/2010
+Mufumbwe,kaminzekenzeke,1/19/2010
+Mufumbwe,mushima,1/19/2010
+Mufumbwe,Kikonge,1/20/2010
+Mufumbwe,matushi,1/21/2010
+Mufumbwe,jivundu,1/21/2010
+Mufumbwe,boma,1/27/2010
+Mufumbwe,Kashima,1/28/2010
+Mufumbwe,kalengwa,1/29/2010
+Mufumbwe,kabipupu,1/27/2010
+Mufumbwe,Mufumbwe HAAC,2/5/2010
+Mufumbwe,boma,2/12/2010
+Mufumbwe,kalengwa,2/19/2010
+Mufumbwe,kabipupu,2/19/2010
+Mufumbwe,Kashima,2/20/2010
+Mufumbwe,lubilo,2/20/2010
+Mufumbwe,matushi,2/20/2010
+Mufumbwe,Munyambala,2/20/2010
+Mufumbwe,jivundu,2/20/2010
+Mufumbwe,kaminzekenzeke,2/21/2010
+Mufumbwe,mushima,2/21/2010
+Mufumbwe,kabanda,2/21/2010
+Mufumbwe,Kikonge,2/21/2010
+Mufumbwe,hospital,2/27/2010
+Mufumbwe,Mufumbwe HAAC,3/11/2010
+Mufumbwe,hospital,3/11/2010
+Mufumbwe,Kashima,3/11/2010
+Mufumbwe,lubilo,3/11/2010
+Mufumbwe,matushi,3/11/2010
+Mufumbwe,Munyambala,3/11/2010
+Mufumbwe,jivundu,3/11/2010
+Mufumbwe,boma,3/16/2010
+Mufumbwe,kaminzekenzeke,3/19/2010
+Mufumbwe,mushima,3/19/2010
+Mufumbwe,kabanda,3/19/2010
+Mufumbwe,Kikonge,3/26/2010
+Mufumbwe,Mufumbwe HAAC,4/10/2010
+Mufumbwe,hospital,4/10/2010
+Mufumbwe,Kikonge,4/16/2010
+Mufumbwe,Kashima,4/20/2010
+Mufumbwe,lubilo,4/20/2010
+Mufumbwe,matushi,4/20/2010
+Mufumbwe,Munyambala,4/20/2010
+Mufumbwe,boma,4/21/2010
+Mufumbwe,kaminzekenzeke,4/22/2010
+Mufumbwe,mushima,4/22/2010
+Mufumbwe,kabanda,4/22/2010
+Mufumbwe,kalengwa,4/23/2010
+Mufumbwe,kabipupu,4/23/2010
+Mungwi,Nseluka,5/13/2009
+Mungwi,Chimba,5/13/2009
+Mungwi,Mumba,5/14/2009
+Mungwi,Kapolyo,5/14/2009
+Mungwi,Kalulu,5/15/2009
+Mungwi,Kayambi Mission,5/15/2009
+Mungwi,Malole,5/16/2009
+Mungwi,Ndasa,5/16/2009
+Mungwi,Kapolyo,5/16/2009
+Mungwi,Mumba,5/16/2009
+Mungwi,Nseluka,5/19/2009
+Mungwi,Ngoli,5/19/2009
+Mungwi,Rosa,5/19/2009
+Mungwi,Chimba,5/19/2009
+Mungwi,Makasa,5/20/2009
+Mungwi,Peleti,5/20/2009
+Mungwi,Chitimukulu,5/20/2009
+Mungwi,Mungwi Baptist,5/22/2009
+Mungwi,Mungwi Baptist,5/26/2009
+Mungwi,Mumba,6/22/2009
+Mungwi,Mungwi Baptist,6/22/2009
+Mungwi,Ndasa,6/22/2009
+Mungwi,Kapolyo,6/23/2009
+Mungwi,Malole,6/23/2009
+Mungwi,Nseluka,6/24/2009
+Mungwi,Ngoli,6/24/2009
+Mungwi,Rosa,6/24/2009
+Mungwi,Peleti,6/25/2009
+Mungwi,Makasa,6/25/2009
+Mungwi,Kalulu,6/26/2009
+Mungwi,Kayambi Mission,6/26/2009
+Mungwi,Chitimukulu,6/30/2009
+Mungwi,Chimba,6/30/2009
+Mungwi,Ngoli,7/29/2009
+Mungwi,Rosa,7/30/2009
+Mungwi,Malole,7/30/2009
+Mungwi,Mumba,7/31/2009
+Mungwi,Ndasa,7/31/2009
+Mungwi,Kapolyo,7/31/2009
+Mungwi,Chitimukulu,8/1/2009
+Mungwi,Chimba,8/1/2009
+Mungwi,Nseluka,8/1/2009
+Mungwi,Peleti,8/3/2009
+Mungwi,Makasa,8/3/2009
+Mungwi,Kayambi Mission,8/4/2009
+Mungwi,Kalulu,8/4/2009
+Mungwi,Malole,8/21/2009
+Mungwi,Kapolyo,8/21/2009
+Mungwi,Mumba,8/21/2009
+Mungwi,Ndasa,8/21/2009
+Mungwi,Chitimukulu,8/22/2009
+Mungwi,Chimba,8/22/2009
+Mungwi,Rosa,8/22/2009
+Mungwi,Ngoli,8/22/2009
+Mungwi,Nseluka,8/22/2009
+Mungwi,Peleti,8/23/2009
+Mungwi,Makasa,8/23/2009
+Mungwi,Kayambi Mission,8/24/2009
+Mungwi,Kalulu,8/25/2009
+Mungwi,Mungwi Baptist,8/26/2009
+Mungwi,Mungwi Baptist,9/9/2009
+Mungwi,Ndasa,9/10/2009
+Mungwi,Mumba,9/10/2009
+Mungwi,Kapolyo,9/11/2009
+Mungwi,Malole,9/11/2009
+Mungwi,Chimba,9/14/2009
+Mungwi,Rosa,9/14/2009
+Mungwi,Ngoli,9/15/2009
+Mungwi,Nseluka,9/15/2009
+Mungwi,Peleti,9/17/2009
+Mungwi,Chitimukulu,9/17/2009
+Mungwi,Kayambi Mission,9/22/2009
+Mungwi,Kalulu,9/22/2009
+Mungwi,Makasa,9/23/2009
+Mungwi,Mungwi Baptist,10/15/2009
+Mungwi,Nseluka,10/19/2009
+Mungwi,Ngoli,10/19/2009
+Mungwi,Rosa,10/19/2009
+Mungwi,Malole,10/20/2009
+Mungwi,Kapolyo,10/20/2009
+Mungwi,Mumba,10/20/2009
+Mungwi,Ndasa,10/21/2009
+Mungwi,Chimba,10/21/2009
+Mungwi,Chitimukulu,10/21/2009
+Mungwi,Peleti,10/22/2009
+Mungwi,Makasa,10/22/2009
+Mungwi,Kayambi Mission,10/23/2009
+Mungwi,Kalulu,10/23/2009
+Mungwi,Mungwi Baptist,11/16/2009
+Mungwi,Peleti,11/24/2009
+Mungwi,Mungwi Baptist,12/7/2009
+Mungwi,Kalulu,12/8/2009
+Mungwi,Kayambi Mission,12/9/2009
+Mungwi,Makasa,12/10/2009
+Mungwi,Peleti,12/10/2009
+Mungwi,Nseluka,12/22/2009
+Mungwi,Ngoli,12/22/2009
+Mungwi,Rosa,12/22/2009
+Mungwi,Kapolyo,12/23/2009
+Mungwi,Ndasa,12/23/2009
+Mungwi,Mumba,12/23/2009
+Mungwi,Malole,12/24/2009
+Mungwi,Chitimukulu,12/24/2009
+Mungwi,Chimba,12/24/2009
+Mungwi,Mungwi Baptist,1/18/2010
+Mungwi,Kayambi Mission,1/18/2010
+Mungwi,Kalulu,1/19/2010
+Mungwi,Makasa,1/20/2010
+Mungwi,Peleti,1/21/2010
+Mungwi,Ndasa,1/22/2010
+Mungwi,Nseluka,1/31/2010
+Mungwi,Ngoli,1/31/2010
+Mungwi,Mungwi Baptist,2/3/2010
+Mungwi,Chimba,2/8/2010
+Mungwi,Malole,2/9/2010
+Mungwi,Chitimukulu,2/10/2010
+Mungwi,Kapolyo,2/11/2010
+Mungwi,Mumba,2/12/2010
+Mungwi,Ndasa,2/12/2010
+Mungwi,Nseluka,2/15/2010
+Mungwi,Ngoli,2/15/2010
+Mungwi,Rosa,2/15/2010
+Mungwi,Peleti,2/16/2010
+Mungwi,Makasa,2/17/2010
+Mungwi,Kayambi Mission,2/18/2010
+Mungwi,Kalulu,2/19/2010
+Mungwi,Mungwi Baptist,3/4/2010
+Mungwi,Ndasa,3/11/2010
+Mungwi,Kapolyo,3/11/2010
+Mungwi,Mumba,3/11/2010
+Mungwi,Malole,3/12/2010
+Mungwi,Chitimukulu,3/12/2010
+Mungwi,Chimba,3/12/2010
+Mungwi,Nseluka,3/13/2010
+Mungwi,Ngoli,3/13/2010
+Mungwi,Rosa,3/13/2010
+Mungwi,Peleti,3/15/2010
+Mungwi,Makasa,3/15/2010
+Mungwi,Kayambi Mission,3/16/2010
+Mungwi,Kalulu,3/16/2010
+Mungwi,Mungwi Baptist,4/12/2010
+Mungwi,Malole,4/13/2010
+Mungwi,Kapolyo,4/13/2010
+Mungwi,Ndasa,4/13/2010
+Mungwi,Mumba,4/13/2010
+Mungwi,Makasa,4/14/2010
+Mungwi,Kalulu,4/14/2010
+Mungwi,Kayambi Mission,4/14/2010
+Mungwi,Nseluka,4/16/2010
+Mungwi,Ngoli,4/16/2010
+Mungwi,Rosa,4/16/2010
+Mungwi,Chitimukulu,4/17/2010
+Mungwi,Chimba,4/17/2010
+Mungwi,Peleti,4/17/2010
+Mwinilunga,Kapundu,4/7/2009
+Mwinilunga,Ikelenge,4/7/2009
+Mwinilunga,Kafweku,4/8/2009
+Mwinilunga,Katuyola,4/14/2009
+Mwinilunga,Nyang’ombe,4/14/2009
+Mwinilunga,Sachibondu,4/14/2009
+Mwinilunga,Lumwana west,4/15/2009
+Mwinilunga,Kazozu,4/16/2009
+Mwinilunga,Mwinilunga HAHC,4/16/2009
+Mwinilunga,Sailunga,4/16/2009
+Mwinilunga,Chibwika,4/17/2009
+Mwinilunga,Chisengi sengi,4/17/2009
+Mwinilunga,Salujinga,4/21/2009
+Mwinilunga,Kalene HAHC(kawota),4/21/2009
+Mwinilunga,Kayipaka,4/21/2009
+Mwinilunga,Kamapanda,4/22/2009
+Mwinilunga,Ntambu,4/23/2009
+Mwinilunga,Kanyama,4/24/2009
+Mwinilunga,Kakoma,4/24/2009
+Mwinilunga,Mwinilunga HAHC,4/24/2009
+Mwinilunga,Musangila,4/27/2009
+Mwinilunga,Mwinilunga HAHC,4/27/2009
+Mwinilunga,Mukangala,4/28/2009
+Mwinilunga,Sachibondu,4/28/2009
+Mwinilunga,Lwawu,4/29/2009
+Mwinilunga,Jimbe,4/29/2009
+Mwinilunga,Nyangombe,4/29/2009
+Mwinilunga,Chiwoma,4/29/2009
+Mwinilunga,Musangila,4/30/2009
+Mwinilunga,Tom-ilunga,4/30/2009
+Mwinilunga,Chisengi sengi,4/30/2009
+Mwinilunga,Chiwoma,4/30/2009
+Mwinilunga,Kanzenzi,4/30/2009
+Mwinilunga,Kanihampa,5/4/2009
+Mwinilunga,Kapundu,5/7/2009
+Mwinilunga,Tom ilunga,5/7/2009
+Mwinilunga,Lumwana west,5/8/2009
+Mwinilunga,Kanyihampa,5/11/2009
+Mwinilunga,Jimbe,5/11/2009
+Mwinilunga,Lwawu,5/11/2009
+Mwinilunga,Kakoma,5/13/2009
+Mwinilunga,Nyangombe,5/13/2009
+Mwinilunga,Kanzenzi,5/15/2009
+Mwinilunga,Kanyihampa,5/18/2009
+Mwinilunga,Sailunga,5/18/2009
+Mwinilunga,Mukangala,5/19/2009
+Mwinilunga,Ikelenge,5/20/2009
+Mwinilunga,Kayipaka,5/21/2009
+Mwinilunga,Katuyola,5/21/2009
+Mwinilunga,Chiwoma,5/22/2009
+Mwinilunga,Kanyihampa,5/26/2009
+Mwinilunga,Nyangombe,5/26/2009
+Mwinilunga,kanihampa,6/1/2009
+Mwinilunga,Ikelenge,6/4/2009
+Mwinilunga,Chisengi sengi,6/5/2009
+Mwinilunga,Kanihampa,6/8/2009
+Mwinilunga,Katuyola,6/8/2009
+Mwinilunga,Kayipaka,6/8/2009
+Mwinilunga,Lwawu,6/10/2009
+Mwinilunga,Kanihampa,6/15/2009
+Mwinilunga,Mukangala,6/16/2009
+Mwinilunga,Lwawu,6/16/2009
+Mwinilunga,Musangila,6/16/2009
+Mwinilunga,Kapundu,6/16/2009
+Mwinilunga,Kanyama,6/16/2009
+Mwinilunga,Katuyola,6/16/2009
+Mwinilunga,Nyangombe,6/16/2009
+Mwinilunga,Sailunga,6/17/2009
+Mwinilunga,Chisengi sengi,6/17/2009
+Mwinilunga,Kazozu,6/18/2009
+Mwinilunga,Tom ilunga,6/18/2009
+Mwinilunga,Ikelenge,6/19/2009
+Mwinilunga,Kayipaka,6/19/2009
+Mwinilunga,Salujinga,6/19/2009
+Mwinilunga,Kawota,6/22/2009
+Mwinilunga,Jimbe,6/22/2009
+Mwinilunga,Kafweku,6/22/2009
+Mwinilunga,Kanzenzi,6/22/2009
+Mwinilunga,Kamapanda,6/23/2009
+Mwinilunga,Kakoma,6/25/2009
+Mwinilunga,Lumwana west,6/25/2009
+Mwinilunga,Sakapoti,6/25/2009
+Mwinilunga,Ntambu sachitolu,6/25/2009
+Mwinilunga,Chibwika,6/26/2009
+Mwinilunga,Chiwoma,6/26/2009
+Mwinilunga,Kanyihampa,7/2/2009
+Mwinilunga,Sailunga,7/3/2009
+Mwinilunga,Kanyihampa,7/8/2009
+Mwinilunga,Kanyihampa,7/9/2009
+Mwinilunga,Kanyihampa,7/15/2009
+Mwinilunga,Sachibondu,7/16/2009
+Mwinilunga,Ikelenge,7/16/2009
+Mwinilunga,Kanyihampa,7/16/2009
+Mwinilunga,Kayipaka,7/16/2009
+Mwinilunga,Kafweku,7/17/2009
+Mwinilunga,Jimbe,7/17/2009
+Mwinilunga,Salujinga,7/17/2009
+Mwinilunga,Nyangombe,7/20/2009
+Mwinilunga,Katuyola,7/20/2009
+Mwinilunga,Kanyihampa,7/21/2009
+Mwinilunga,Kazozu,7/22/2009
+Mwinilunga,Chisengi sengi,7/22/2009
+Mwinilunga,Tom ilunga,7/22/2009
+Mwinilunga,Musangila,7/23/2009
+Mwinilunga,Sakapoti,7/23/2009
+Mwinilunga,Ntambu sachitolu,7/23/2009
+Mwinilunga,Lwawu,7/23/2009
+Mwinilunga,Kakoma,7/27/2009
+Mwinilunga,Sailunga,7/27/2009
+Mwinilunga,Kapundu,7/28/2009
+Mwinilunga,Kanyama,7/28/2009
+Mwinilunga,Kamapanda,7/29/2009
+Mwinilunga,Chiwoma,7/29/2009
+Mwinilunga,Kanzenzi,7/29/2009
+Mwinilunga,Ikelenge,7/29/2009
+Mwinilunga,Mukangala,7/29/2009
+Mwinilunga,Chibwika,7/29/2009
+Mwinilunga,Lumwana west,7/30/2009
+Mwinilunga,Sachibondu,7/31/2009
+Mwinilunga,Jimbe,8/5/2009
+Mwinilunga,Kanyihampa,8/7/2009
+Mwinilunga,Sakapoti,8/11/2009
+Mwinilunga,Ntambu sachitolu,8/11/2009
+Mwinilunga,Musangila,8/11/2009
+Mwinilunga,Ikelenge,8/12/2009
+Mwinilunga,Kawota,8/12/2009
+Mwinilunga,Lwawu,8/13/2009
+Mwinilunga,Kakoma,8/13/2009
+Mwinilunga,Chibwika,8/18/2009
+Mwinilunga,Kamapanda,8/18/2009
+Mwinilunga,Chiwoma,8/19/2009
+Mwinilunga,Kanzenzi,8/19/2009
+Mwinilunga,Nyangombe,8/20/2009
+Mwinilunga,Katuyola,8/20/2009
+Mwinilunga,Sailunga,8/20/2009
+Mwinilunga,Chisengi sengi,8/21/2009
+Mwinilunga,Kazozu,8/21/2009
+Mwinilunga,Tom ilunga,8/21/2009
+Mwinilunga,Mukangala,8/26/2009
+Mwinilunga,Ikelenge,8/26/2009
+Mwinilunga,Kawota,8/26/2009
+Mwinilunga,Kafweku,8/26/2009
+Mwinilunga,Jimbe,8/27/2009
+Mwinilunga,Salujinga,8/27/2009
+Mwinilunga,Kayipaka,8/27/2009
+Mwinilunga,Kapundu,8/28/2009
+Mwinilunga,Kanyama,8/28/2009
+Mwinilunga,Kakoma,8/29/2009
+Mwinilunga,Lumwana,8/29/2009
+Mwinilunga,Kazozu,9/9/2009
+Mwinilunga,Kanyihampa,9/10/2009
+Mwinilunga,Mukangala,9/10/2009
+Mwinilunga,Lumwana west,9/18/2009
+Mwinilunga,Musangila,9/18/2009
+Mwinilunga,Lwawu,9/18/2009
+Mwinilunga,Sakapoti,9/18/2009
+Mwinilunga,Sachibondu,9/22/2009
+Mwinilunga,Kazozu,9/23/2009
+Mwinilunga,Tom ilunga,9/23/2009
+Mwinilunga,Katuyola,9/24/2009
+Mwinilunga,Nyangombe,9/24/2009
+Mwinilunga,Sailunga,9/24/2009
+Mwinilunga,Chisengi sengi,9/24/2009
+Mwinilunga,Sachibondu,9/25/2009
+Mwinilunga,Mukangala,9/25/2009
+Mwinilunga,Ikelenge,9/25/2009
+Mwinilunga,Kawota,9/25/2009
+Mwinilunga,Kayipaka,9/26/2009
+Mwinilunga,Salujinga,9/26/2009
+Mwinilunga,Jimbe,9/26/2009
+Mwinilunga,Kafweku,9/26/2009
+Mwinilunga,Chibwika,9/28/2009
+Mwinilunga,Kamapanda,9/28/2009
+Mwinilunga,Chiwoma,9/29/2009
+Mwinilunga,Kanzenzi,9/29/2009
+Mwinilunga,Kapundu,9/30/2009
+Mwinilunga,Kanyama,9/30/2009
+Mwinilunga,Kakoma,10/1/2009
+Mwinilunga,Lumwana west,10/1/2009
+Mwinilunga,Kakoma,10/1/2009
+Mwinilunga,Lumwana west,10/1/2009
+Mwinilunga,Ikelenge,10/20/2009
+Mwinilunga,Kawota,10/20/2009
+Mwinilunga,Kayipaka,10/20/2009
+Mwinilunga,Salujinga,10/20/2009
+Mwinilunga,Jimbe,10/20/2009
+Mwinilunga,Kafweku,10/20/2009
+Mwinilunga,Kapundu,10/22/2009
+Mwinilunga,Kanyama,10/22/2009
+Mwinilunga,Kakoma,10/22/2009
+Mwinilunga,Lumwana west,10/22/2009
+Mwinilunga,Lwawu,10/23/2009
+Mwinilunga,Musangila,10/23/2009
+Mwinilunga,Sakapoti,10/23/2009
+Mwinilunga,Sailunga,10/27/2009
+Mwinilunga,Kazozu,10/27/2009
+Mwinilunga,Chisengi sengi,10/27/2009
+Mwinilunga,Tom ilunga,10/27/2009
+Mwinilunga,Kamapanda,10/30/2009
+Mwinilunga,Chibwika,10/30/2009
+Mwinilunga,Chiwoma,10/30/2009
+Mwinilunga,Kanzenzi,10/30/2009
+Mwinilunga,Katuyola,11/3/2009
+Mwinilunga,Nyangombe,11/3/2009
+Mwinilunga,Katuyola,11/3/2009
+Mwinilunga,Nyangombe,11/3/2009
+Mwinilunga,Kanyihampa,11/16/2009
+Mwinilunga,Kanyihampa,11/18/2009
+Mwinilunga,Chiwoma,11/19/2009
+Mwinilunga,Nyangombe,11/20/2009
+Mwinilunga,Katuyola,11/20/2009
+Mwinilunga,Sachibondu,11/23/2009
+Mwinilunga,Mukangala,11/23/2009
+Mwinilunga,Kayipaka,11/23/2009
+Mwinilunga,Salujinga,11/24/2009
+Mwinilunga,Jimbe,11/24/2009
+Mwinilunga,Kafweku,11/24/2009
+Mwinilunga,Kawota,11/25/2009
+Mwinilunga,Ikelenge,11/25/2009
+Mwinilunga,Sakapoti,11/27/2009
+Mwinilunga,Kakoma,12/1/2009
+Mwinilunga,Kamapanda,12/2/2009
+Mwinilunga,Kanzenzi,12/2/2009
+Mwinilunga,Chibwika,12/2/2009
+Mwinilunga,Ikelenge,12/3/2009
+Mwinilunga,Kapundu,12/8/2009
+Mwinilunga,Musangila,12/8/2009
+Mwinilunga,Mukangala,12/9/2009
+Mwinilunga,Ikelenge,12/9/2009
+Mwinilunga,Kayipaka,12/9/2009
+Mwinilunga,Salujinga,12/9/2009
+Mwinilunga,Jimbe,12/9/2009
+Mwinilunga,Kafweku,12/9/2009
+Mwinilunga,Kawota,12/9/2009
+Mwinilunga,Kamapanda,12/11/2009
+Mwinilunga,Chibwika,12/11/2009
+Mwinilunga,Chiwoma,12/11/2009
+Mwinilunga,Kanzenzi,12/11/2009
+Mwinilunga,Katuyola,12/12/2009
+Mwinilunga,Nyangombe,12/12/2009
+Mwinilunga,Sailunga,12/12/2009
+Mwinilunga,Kazozu,12/12/2009
+Mwinilunga,Chisengi sengi,12/12/2009
+Mwinilunga,Tom ilunga,12/12/2009
+Mwinilunga,Kapundu,12/14/2009
+Mwinilunga,Kanyama,12/14/2009
+Mwinilunga,Kakoma,12/14/2009
+Mwinilunga,Lumwana west,12/14/2009
+Mwinilunga,Musangila,12/16/2009
+Mwinilunga,Lwawu,12/16/2009
+Mwinilunga,Sakapoti,12/16/2009
+Mwinilunga,Kanyihampa,1/6/2010
+Mwinilunga,Lwawu,1/7/2010
+Mwinilunga,Katuyola,1/18/2010
+Mwinilunga,Nyangombe,1/18/2010
+Mwinilunga,Sailunga,1/18/2010
+Mwinilunga,Chisengi sengi,1/18/2010
+Mwinilunga,Kazozu,1/18/2010
+Mwinilunga,Tom ilunga,1/18/2010
+Mwinilunga,Lumwana west,1/20/2010
+Mwinilunga,Kakoma,1/20/2010
+Mwinilunga,Kanyama,1/20/2010
+Mwinilunga,Kapundu,1/20/2010
+Mwinilunga,Mukangala,1/21/2010
+Mwinilunga,Ikelenge,1/21/2010
+Mwinilunga,Kayipaka,1/21/2010
+Mwinilunga,Kawota,1/21/2010
+Mwinilunga,Kafweku,1/21/2010
+Mwinilunga,Jimbe,1/21/2010
+Mwinilunga,Salujinga,1/21/2010
+Mwinilunga,Musangila,1/21/2010
+Mwinilunga,Sakapoti,1/23/2010
+Mwinilunga,Chibwika,1/23/2010
+Mwinilunga,Chiwoma,1/23/2010
+Mwinilunga,Kanzenzi,1/23/2010
+Mwinilunga,Kanyihampa,2/6/2010
+Mwinilunga,Sakapoti,2/9/2010
+Mwinilunga,Lwawu,2/9/2010
+Mwinilunga,Musangila,2/9/2010
+Mwinilunga,Chibwika,2/16/2010
+Mwinilunga,Chiwoma,2/16/2010
+Mwinilunga,Kanzenzi,2/16/2010
+Mwinilunga,Mukangala,2/17/2010
+Mwinilunga,Ikelenge,2/17/2010
+Mwinilunga,Kayipaka,2/17/2010
+Mwinilunga,Kawota,2/17/2010
+Mwinilunga,Salujinga,2/17/2010
+Mwinilunga,Jimbe,2/17/2010
+Mwinilunga,Kafweku,2/17/2010
+Mwinilunga,Nyangombe,2/22/2010
+Mwinilunga,Sailunga,2/22/2010
+Mwinilunga,Chisengi sengi,2/22/2010
+Mwinilunga,Kazozu,2/22/2010
+Mwinilunga,Tom ilunga,2/22/2010
+Mwinilunga,Katuyola,2/25/2010
+Mwinilunga,Kapundu,2/25/2010
+Mwinilunga,Kakoma,2/25/2010
+Mwinilunga,Kanyama,2/25/2010
+Mwinilunga,Lumwana west,2/25/2010
+Mwinilunga,Kanyihampa,3/3/2010
+Mwinilunga,Lwawu,3/8/2010
+Mwinilunga,Sachibondu,3/9/2010
+Mwinilunga,Sailunga,3/11/2010
+Mwinilunga,Chisengi sengi,3/11/2010
+Mwinilunga,Kazozu,3/11/2010
+Mwinilunga,Tom ilunga,3/11/2010
+Mwinilunga,Katuyola,3/16/2010
+Mwinilunga,Nyangombe,3/16/2010
+Mwinilunga,Mukangala,3/18/2010
+Mwinilunga,Ikelenge,3/18/2010
+Mwinilunga,Kayipaka,3/18/2010
+Mwinilunga,Salujinga,3/18/2010
+Mwinilunga,Jimbe,3/18/2010
+Mwinilunga,Kafweku,3/18/2010
+Mwinilunga,Kawota,3/18/2010
+Mwinilunga,Chibwika,3/22/2010
+Mwinilunga,Chiwoma,3/22/2010
+Mwinilunga,Kanzenzi,3/22/2010
+Mwinilunga,Sakapoti,3/22/2010
+Mwinilunga,Kapundu,3/24/2010
+Mwinilunga,Kanyama,3/24/2010
+Mwinilunga,Kakoma,3/24/2010
+Mwinilunga,Lumwana west,3/24/2010
+Mwinilunga,Kanyihampa,4/8/2010
+Mwinilunga,Lwawu,4/9/2010
+Mwinilunga,Jimbe,4/10/2010
+Mwinilunga,Ikelenge,4/12/2010
+Mwinilunga,Chiwoma,4/15/2010
+Mwinilunga,Kanzenzi,4/15/2010
+Mwinilunga,Sakapoti,4/16/2010
+Mwinilunga,Sachibondu,4/16/2010
+Nakonde,CHOZI H.C,4/8/2009
+Nakonde,NAKONDE H.C,4/8/2009
+Nakonde,NAKONDE H.C,4/8/2009
+Nakonde,NAKONDE H.C,4/14/2009
+Nakonde,NAKONDE H.C,4/14/2009
+Nakonde,MWENZO H.C,4/14/2009
+Nakonde,CHANKA H.C,4/17/2009
+Nakonde,WAITWIKA H.C,4/23/2009
+Nakonde,NTATUMBILA H.C,4/23/2009
+Nakonde,CHILOLWA H.C,4/25/2009
+Nakonde,SHEM H.C,4/25/2009
+Nakonde,MWENZO H.C,5/3/2009
+Nakonde,NAKONDE H.C,5/8/2009
+Nakonde,MWENZO H.C,5/11/2009
+Nakonde,MWENZO H.C,5/11/2009
+Nakonde,NAKONDE H.C,5/11/2009
+Nakonde,NAKONDE H.C,5/13/2009
+Nakonde,WAITWIKA H.C,5/15/2009
+Nakonde,CHOZI H.C,5/15/2009
+Nakonde,CHILOLWA H.C,5/18/2009
+Nakonde,SHEM H.C,5/19/2009
+Nakonde,CHOZI H.C,5/20/2009
+Nakonde,NTATUMBILA H.C,5/20/2009
+Nakonde,CHANKA H.C,5/28/2009
+Nakonde,CHANKA H.C,5/28/2009
+Nakonde,CHANKA H.C,6/1/2009
+Nakonde,SHEM H.C,6/1/2009
+Nakonde,CHILOLWA H.C,6/1/2009
+Nakonde,WAITWIKA H.C,6/1/2009
+Nakonde,CHOZI H.C,6/2/2009
+Nakonde,NTATUMBILA H.C,6/2/2009
+Nakonde,NTATUMBILA H.C,6/15/2009
+Nakonde,MWENZO H.C,6/16/2009
+Nakonde,SHEM H.C,6/17/2009
+Nakonde,CHANKA H.C,6/17/2009
+Nakonde,WAITWIKA H.C,6/18/2009
+Nakonde,CHILOLWA H.C,6/18/2009
+Nakonde,NAKONDE H.C,6/19/2009
+Nakonde,WAITWIKA H.C,7/6/2009
+Nakonde,CHILOLWA H.C,7/6/2009
+Nakonde,MWENZO H.C,7/6/2009
+Nakonde,CHOZI H.C,7/7/2009
+Nakonde,NTATUMBILA H.C,7/7/2009
+Nakonde,CHANKA H.C,7/8/2009
+Nakonde,SHEM H.C,7/8/2009
+Nakonde,NAKONDE H.C,7/13/2009
+Nakonde,NAKONDE H.C,7/14/2009
+Nakonde,MWENZO H.C,7/17/2009
+Nakonde,WAITWIKA H.C,7/20/2009
+Nakonde,CHILOLWA H.C,7/20/2009
+Nakonde,CHOZI H.C,7/22/2009
+Nakonde,NTATUMBILA H.C,7/22/2009
+Nakonde,CHANKA H.C,7/24/2009
+Nakonde,SHEM H.C,7/24/2009
+Nakonde,NAKONDE H.C,8/17/2009
+Nakonde,NAKONDE H.C,8/19/2009
+Nakonde,MWENZO H.C,8/20/2009
+Nakonde,CHILOLWA H.C,8/21/2009
+Nakonde,WAITWIKA H.C,8/24/2009
+Nakonde,SHEM H.C,8/25/2009
+Nakonde,CHOZI H.C,8/26/2009
+Nakonde,CHANKA H.C,8/28/2009
+Nakonde,NTATUMBILA H.C,8/31/2009
+Nakonde,NAKONDE H.C,9/8/2009
+Nakonde,NAKONDE H.C,9/10/2009
+Nakonde,NAKONDE H.C,9/14/2009
+Nakonde,MWENZO H.C,9/15/2009
+Nakonde,NTATUMBILA H.C,9/18/2009
+Nakonde,WAITWIKA H.C,9/21/2009
+Nakonde,CHILOLWA H.C,9/23/2009
+Nakonde,SHEM H.C,9/25/2009
+Nakonde,CHANKA H.C,9/28/2009
+Nakonde,CHOZI H.C,9/29/2009
+Nakonde,MWENZO H.C,10/8/2009
+Nakonde,NAKONDE H.C,10/9/2009
+Nakonde,NAKONDE H.C,10/12/2009
+Nakonde,MWENZO H.C,10/13/2009
+Nakonde,WAITWIKA H.C,10/16/2009
+Nakonde,SHEM H.C,10/19/2009
+Nakonde,CHILOLWA H.C,10/21/2009
+Nakonde,CHANKA H.C,10/22/2009
+Nakonde,CHOZI H.C,10/23/2009
+Nakonde,NTATUMBILA H.C,10/27/2009
+Nakonde,NAKONDE H.C,11/9/2009
+Nakonde,MWENZO H.C,11/12/2009
+Nakonde,NAKONDE H.C,11/13/2009
+Nakonde,MWENZO H.C,11/17/2009
+Nakonde,NTATUMBILA H.C,11/18/2009
+Nakonde,SHEM H.C,11/20/2009
+Nakonde,WAITWIKA H.C,11/23/2009
+Nakonde,CHOZI H.C,11/25/2009
+Nakonde,CHILOLWA H.C,11/26/2009
+Nakonde,CHANKA H.C,11/30/2009
+Nakonde,NAKONDE H.C,12/7/2009
+Nakonde,MWENZO H.C,12/10/2009
+Nakonde,NAKONDE H.C,12/11/2009
+Nakonde,NTATUMBILA H.C,12/18/2009
+Nakonde,WAITWIKA H.C,12/21/2009
+Nakonde,CHOZI H.C,12/24/2009
+Nakonde,SHEM H.C,12/25/2009
+Nakonde,CHILOLWA H.C,12/28/2009
+Nakonde,CHANKA H.C,12/29/2009
+Nakonde,MWENZO H.C,12/30/2009
+Nakonde,MWENZO H.C,1/4/2010
+Nakonde,MWENZO H.C,1/5/2010
+Nakonde,CHANKA H.C,1/8/2010
+Nakonde,NAKONDE H.C,1/9/2010
+Nakonde,NAKONDE H.C,1/12/2010
+Nakonde,SHEM H.C,1/14/2010
+Nakonde,CHANKA H.C,1/19/2010
+Nakonde,MWENZO H.C,1/22/2010
+Nakonde,CHILOLWA H.C,1/28/2010
+Nakonde,CHOZI H.C,1/28/2010
+Nakonde,"NTATUMBILA H,C",1/28/2010
+Nakonde,WAITWIKA H.C,1/29/2010
+Nakonde,NAKONDE H.C,2/8/2010
+Nakonde,SHEM H.C,2/8/2010
+Nakonde,MWENZO H.C,2/10/2010
+Nakonde,NAKONDE H.C,2/11/2010
+Nakonde,MWENZO H.C,2/12/2010
+Nakonde,NTATUMBILA H.C,2/16/2010
+Nakonde,WAITWIKA H.C,2/17/2010
+Nakonde,SHEM H.C,2/18/2010
+Nakonde,CHOZI H.C,2/19/2010
+Nakonde,CHANKA H.C,2/22/2010
+Nakonde,CHILOLWA,2/23/2010
+Nakonde,NTATUMBILA,2/26/2010
+Nakonde,MWENZO,2/26/2010
+Nakonde,CHOZI,2/26/2010
+Nakonde,WAITWIKA H.C,2/26/2010
+Nakonde,CHOZI H.C,3/2/2010
+Nakonde,SHEM H.C,3/2/2010
+Nakonde,NTATUMBILA H.C,3/3/2010
+Nakonde,CHANKA H.C,3/4/2010
+Nakonde,MWENZO H.C,3/4/2010
+Nakonde,WAITWIKA H.C,3/5/2010
+Nakonde,CHILOLWA H.C,3/5/2010
+Nakonde,NAKONDE H.C,3/6/2010
+Nakonde,NAKONDE H.C,3/10/2010
+Nakonde,MWENZO H.C,3/11/2010
+Nakonde,WATWIKA H.C,3/12/2010
+Nakonde,SHEM H.C,3/14/2010
+Nakonde,NTATUMBILA H.C,3/15/2010
+Nakonde,CHANKA H.C,3/16/2010
+Nakonde,CHILOLWA H.C,3/18/2010
+Nakonde,CHOZI H.C,3/19/2010
+Nakonde,CHOZI H.C,4/1/2010
+Nakonde,WAITWIKA H.C,4/3/2010
+Nakonde,NTATUMBILA H.C,4/5/2010
+Nakonde,CHILOLWA H.C,4/5/2010
+Nakonde,SHEM H.C,4/5/2010
+Nakonde,NAKONDE H.C,4/6/2010
+Nakonde,CHANKA H.C,4/6/2010
+Nakonde,MWENZO H.C,4/12/2010
+Nakonde,NAKONDE H.C,4/13/2010
+Nakonde,MWENZO H.C,4/15/2010
+Nakonde,SHEM H.C,4/16/2010
+Nakonde,WAITWIKA,4/19/2010
+Nakonde,NTATUMBILA HC,4/20/2010
+Nakonde,CHANKA H.C,4/22/2010
+Nakonde,CHILOLWA H.C,4/23/2010
+Nakonde,CHOZI H.C,4/26/2010
+Shang'ombo,Silowana,6/2/2009
+Shang'ombo,Silowana,6/5/2009
+Shang'ombo,Mbanda,6/9/2009
+Shang'ombo,Nalwashi,6/9/2009
+Shang'ombo,Shang’ombo,6/15/2009
+Shang'ombo,Mulonga,6/15/2009
+Shang'ombo,Sitoti,6/15/2009
+Shang'ombo,Mutomena,6/15/2009
+Shang'ombo,Nangweshi,6/17/2009
+Shang'ombo,Sioma,6/18/2009
+Shang'ombo,Kaanja,6/18/2009
+Shang'ombo,Mbanda,6/18/2009
+Shang'ombo,Mulonga,6/18/2009
+Shang'ombo,Nalwashi,6/18/2009
+Shang'ombo,Nangweshi,6/18/2009
+Shang'ombo,Sitoti,6/18/2009
+Shang'ombo,Nangweshi,6/22/2009
+Shang'ombo,Sioma,6/23/2009
+Shang'ombo,Kaanja RHC,7/10/2009
+Shang'ombo,Sioma,7/18/2009
+Shang'ombo,Nangweshi,7/29/2009
+Shang'ombo,Sioma,7/29/2009
+Shang'ombo,Sitoti,7/29/2009
+Shang'ombo,Sioma,8/4/2009
+Shang'ombo,Silowana,8/4/2009
+Shang'ombo,Sitoti,8/4/2009
+Shang'ombo,Nangweshi,8/4/2009
+Shang'ombo,Nalwashi,8/4/2009
+Shang'ombo,Sipuma,8/4/2009
+Shang'ombo,Kaunga Mashi,8/4/2009
+Shang'ombo,Sinjembela,8/4/2009
+Shang'ombo,Shangombo,8/4/2009
+Shang'ombo,Kaanja,8/4/2009
+Shang'ombo,Mbanda,8/4/2009
+Shang'ombo,Mulonga,8/4/2009
+Shang'ombo,Mutomena,8/4/2009
+Shang'ombo,Sipuma,8/15/2009
+Shang'ombo,Sioma,8/15/2009
+Shang'ombo,Mulonga,8/16/2009
+Shang'ombo,Sioma,9/7/2009
+Shang'ombo,Silowana,9/7/2009
+Shang'ombo,Sitoti,9/7/2009
+Shang'ombo,Nangweshi,9/7/2009
+Shang'ombo,Nalwashi,9/7/2009
+Shang'ombo,Sipuma,9/7/2009
+Shang'ombo,Kaunga Mashi,9/7/2009
+Shang'ombo,Sinjembela,9/7/2009
+Shang'ombo,Shangombo,9/7/2009
+Shang'ombo,Kaanja,9/7/2009
+Shang'ombo,Mbanda,9/7/2009
+Shang'ombo,Mulonga,9/7/2009
+Shang'ombo,Mutomena,9/7/2009
+Shang'ombo,Sipuma,9/13/2009
+Shang'ombo,Mulonga,9/13/2009
+Shang'ombo,Mutomena,9/16/2009
+Shang'ombo,Shangombo,9/17/2009
+Shang'ombo,Sioma,10/5/2009
+Shang'ombo,Silowana,10/5/2009
+Shang'ombo,Sitoti,10/5/2009
+Shang'ombo,Nangweshi,10/5/2009
+Shang'ombo,Nalwashi,10/6/2009
+Shang'ombo,Sipuma,10/9/2009
+Shang'ombo,Kaunga Mashi,10/9/2009
+Shang'ombo,Shangombo,10/10/2009
+Shang'ombo,Sinjembela,10/12/2009
+Shang'ombo,Nangweshi,10/26/2009
+Shang'ombo,Sitoti,10/26/2009
+Shang'ombo,Silowana,10/26/2009
+Shang'ombo,Sioma,10/27/2009
+Shang'ombo,Kaanja,10/27/2009
+Shang'ombo,Mbanda,10/27/2009
+Shang'ombo,Mulonga,10/28/2009
+Shang'ombo,Mutomena,10/28/2009
+Shang'ombo,Sipuma,10/29/2009
+Shang'ombo,Shangombo,10/30/2009
+Shang'ombo,Nangweshi,11/10/2009
+Shang'ombo,Silowana,11/10/2009
+Shang'ombo,Sitoti,11/10/2009
+Shang'ombo,Nalwashi,11/10/2009
+Shang'ombo,Shangombo,11/11/2009
+Shang'ombo,Sipuma,11/11/2009
+Shang'ombo,Kaunga Mashi,11/12/2009
+Shang'ombo,Shangombo,11/22/2009
+Shang'ombo,Sinjembela,11/22/2009
+Shang'ombo,Nangweshi,11/22/2009
+Shang'ombo,Sitoti,11/22/2009
+Shang'ombo,Silowana,11/22/2009
+Shang'ombo,Sioma,11/22/2009
+Shang'ombo,Kaanja,11/22/2009
+Shang'ombo,Kaanja,11/25/2009
+Shang'ombo,Mbanda,11/26/2009
+Shang'ombo,Mulonga,11/27/2009
+Shang'ombo,Mutomena,11/27/2009
+Shang'ombo,Nangweshi,12/15/2009
+Shang'ombo,Sioma,12/15/2009
+Shang'ombo,Sitoti,12/15/2009
+Shang'ombo,Nalwashi,12/15/2009
+Shang'ombo,Sinjembela,12/17/2009
+Shang'ombo,Sipuma,12/18/2009
+Shang'ombo,Kaunga Mashi,12/19/2009
+Shang'ombo,Mbanda,12/20/2009
+Shang'ombo,Sioma,1/6/2010
+Shang'ombo,Nalwashi,1/8/2010
+Shang'ombo,Mulonga,1/9/2010
+Shang'ombo,Silowana,1/9/2010
+Shang'ombo,Sitoti,1/11/2010
+Shang'ombo,Nangweshi,1/12/2010
+Shang'ombo,Kaanja,1/13/2010
+Shang'ombo,Nalwashi,1/14/2010
+Shang'ombo,Kaunga mashi,1/15/2010
+Shang'ombo,Sipuma,1/16/2010
+Shang'ombo,Mutomena,1/17/2010
+Shang'ombo,Mulonga,1/18/2010
+Shang'ombo,Mbanda,1/19/2010
+Shang'ombo,Sitoti,1/25/2010
+Shang'ombo,Mutomena,1/26/2010
+Shang'ombo,Nangweshi,2/8/2010
+Shang'ombo,Kaanja,2/8/2010
+Shang'ombo,Sioma,2/9/2010
+Shang'ombo,Nalwashi,2/10/2010
+Shang'ombo,Silowana,2/10/2010
+Shang'ombo,Mulonga,2/10/2010
+Shang'ombo,Sitoti,2/11/2010
+Shang'ombo,Mutomena,2/12/2010
+Shang'ombo,Kaanja,2/13/2010
+Shang'ombo,Nalwashi,2/14/2010
+Shang'ombo,Kaunga mashi,2/15/2010
+Shang'ombo,Sipuma,2/15/2010
+Shang'ombo,Mutomena,2/17/2010
+Shang'ombo,Mulonga,2/18/2010
+Shang'ombo,Mbanda,2/19/2010
+Shang'ombo,Sitoti,2/25/2010
+Shang'ombo,Nangweshi,2/26/2010
+Shang'ombo,Sioma,3/24/2010
+Shang'ombo,Nangweshi,3/24/2010
+Shang'ombo,Sioma,4/21/2010

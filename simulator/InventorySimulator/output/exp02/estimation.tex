@@ -1,0 +1,283 @@
+\documentclass[margin=2pt]{standalone}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{groupplots}
+\pgfplotsset{compat=1.12}
+
+% Set1 color scheme from Color Brewer
+\definecolor{s1}{RGB}{228, 26, 28}
+\definecolor{s2}{RGB}{55, 126, 184}
+\definecolor{s3}{RGB}{77, 175, 74}
+\definecolor{s4}{RGB}{152, 78, 163}
+\definecolor{s5}{RGB}{255, 127, 0}
+
+\pgfplotsset{
+    cycle multi list={
+        mark=x\nextlist
+        solid,{densely dashed}\nextlist
+        s1,s2,s3,s4,s5},
+    every axis plot/.append style={thick},
+    every axis label/.append style={align=center,text width=60mm},
+    grid=major,
+}
+
+\begin{document}
+\begin{tikzpicture}
+    \begin{groupplot}[
+        group style={
+            group size=2 by 3,
+            vertical sep=13mm,
+        },
+        height=60mm, width=75mm]
+    \nextgroupplot[
+        title=(A),
+        ymin=75,ymax=100,
+        transpose legend,
+        ylabel={Service Level},
+        legend columns=5,
+        legend cell align=left,
+        legend style={
+            /tikz/every even column/.append style={column sep=0.5cm}
+        },
+        legend entries={$4 \times I[-1,0]$\\
+                        $4 \times I[-3,0]$\\
+                        $4 \times I[-6,0]$\\
+                        $4 \times I[-12,0]$\\
+                        $4 \times I[-12,-9]$\\
+                        $4 \times D[-1,0]$\\
+                        $4 \times D[-3,0]$\\
+                        $4 \times D[-6,0]$\\
+                        $4 \times D[-12,0]$\\
+                        $4 \times D[-12,-9]$\\},
+        legend to name=named-legend]
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-0.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-1.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-2.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-3.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-4.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-5.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-6.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-7.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-8.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=service,y error=service.error]
+                {pgfplots-leadtime-estimation-9.txt};
+            \draw[ultra thin]
+                (axis cs:3.8,\pgfkeysvalueof{/pgfplots/ymin}) --
+                (axis cs:3.8,\pgfkeysvalueof{/pgfplots/ymax});
+
+        \nextgroupplot[
+                title=(B),
+                ymin=75,ymax=100,
+              ]
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-0.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-1.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-2.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-3.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-4.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-5.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-6.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-7.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-8.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=service,y error=service.error]
+                {pgfplots-seasonality-estimation-9.txt};
+            \draw[ultra thin]
+                (axis cs:2.2,\pgfkeysvalueof{/pgfplots/ymin}) --
+                (axis cs:2.2,\pgfkeysvalueof{/pgfplots/ymax});
+
+        \nextgroupplot[
+                title=(C),
+                ymin=1.0,ymax=3.5,
+                ylabel={Average Inventory Level\\ (Number of Months)}]
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-0.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-1.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-2.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-3.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-4.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-5.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-6.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-7.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-8.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-leadtime-estimation-9.txt};
+            \draw[ultra thin]
+                (axis cs:3.8,\pgfkeysvalueof{/pgfplots/ymin}) --
+                (axis cs:3.8,\pgfkeysvalueof{/pgfplots/ymax});
+
+        \nextgroupplot[
+                title=(D),
+                ymin=1.0,ymax=3.5,
+              ]
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-0.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-1.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-2.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-3.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-4.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-5.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-6.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-7.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-8.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=mean.inv,y error=mean.inv.error]
+                {pgfplots-seasonality-estimation-9.txt};
+            \draw[ultra thin]
+                (axis cs:2.2,\pgfkeysvalueof{/pgfplots/ymin}) --
+                (axis cs:2.2,\pgfkeysvalueof{/pgfplots/ymax});
+
+        \nextgroupplot[
+                title=(E),
+                ymin=3,ymax=8,
+                xlabel={Mean Secondary Lead Time\\ (Number of Weeks)},
+                ylabel={Maximum Inventory Level\\ (Number of Months)}]
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-0.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-1.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-2.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-3.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-4.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-5.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-6.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-7.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-8.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=lead.time,y=max.inv,y error=max.inv.error]
+                {pgfplots-leadtime-estimation-9.txt};
+            \draw[ultra thin]
+                (axis cs:3.8,\pgfkeysvalueof{/pgfplots/ymin}) --
+                (axis cs:3.8,\pgfkeysvalueof{/pgfplots/ymax});
+
+        \nextgroupplot[
+                title=(F),
+                ymin=3,ymax=8,
+                xlabel={Demand Seasonality},
+                ]
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-0.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-1.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-2.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-3.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-4.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-5.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-6.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-7.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-8.txt};
+            \addplot+[error bars/.cd,y dir=both,y explicit]
+                table[x=seasonality,y=max.inv,y error=max.inv.error]
+                {pgfplots-seasonality-estimation-9.txt};
+            \draw[ultra thin]
+                (axis cs:2.2,\pgfkeysvalueof{/pgfplots/ymin}) --
+                (axis cs:2.2,\pgfkeysvalueof{/pgfplots/ymax});
+    \end{groupplot}
+    \node [below=15mm] at 
+        ($(group c1r3.south east)!0.5!(group c2r3.south west)$)
+        {\ref{named-legend}};
+\end{tikzpicture}
+\end{document}

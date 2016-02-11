@@ -1,0 +1,45 @@
+\documentclass[margin=2pt]{standalone}
+
+\usepackage{pgfplots}
+
+\usepgfplotslibrary{dateplot}
+
+\pgfplotsset{compat=1.12}
+
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[
+    grid=major,
+    width=15cm,
+    height=8cm,
+    date coordinates in=x,
+    xlabel=Date,
+    xticklabel={\pgfcalendar{tickcal}{\tick}{\tick}{\pgfcalendarshorthand{m}{.}}},
+    xtick={2009-01-01, 2009-02-01, 2009-03-01,
+    2009-04-01, 2009-05-01, 2009-06-01,
+    2009-07-01, 2009-08-01, 2009-09-01,
+    2009-10-01, 2009-11-01, 2009-12-01},
+    xmin=2009-01-01,
+    xmax=2010-01-01,
+    ylabel=Lead Time (Weeks),
+    ymin=0,
+    ymax=16,
+    no markers,
+    legend style={at={(0.5,0.97)},anchor=north}]
+
+  \addplot+[very thick] table [x=datetime,y=mean,col sep=comma]
+      {r.txt};
+  \addlegendentry{Mean}
+
+  \addplot+[very thick,dashed,red] table
+      [x=datetime,y=perc05,col sep=comma]
+      {r.txt};
+  \addlegendentry{5-, 95-percentile}
+
+  \addplot+[very thick,dashed,red] table
+      [x=datetime,y=perc95,col sep=comma]
+      {r.txt};
+
+\end{axis}
+\end{tikzpicture}
+\end{document}

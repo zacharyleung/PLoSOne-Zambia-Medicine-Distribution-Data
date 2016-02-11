@@ -1,0 +1,24 @@
+/bin
+
+# ignore OS X file system files
+.DS_Store
+
+# ignore fat jar files
+.fatjar
+
+# ignore R history file
+.Rhistory
+
+# ignore other output files
+*.zip
+
+# ignore Java output files
+*.txt
+*.csv
+
+# ignore LaTeX output files
+*.log
+*.aux
+*.synctex.gz
+*.pdf
+*.png

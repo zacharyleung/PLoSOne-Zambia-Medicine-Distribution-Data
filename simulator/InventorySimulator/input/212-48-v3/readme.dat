@@ -1,0 +1,13 @@
+The files in this folder are for input in the simulator in the
+invsim3 package.
+
+
+districts.txt
+A district orders every 4 periods.
+  1) Order offset
+  2) Lead time from order to receipt by district
+  3) Mean lead time for secondary distribution
+
+accessibility.txt
+212 rows by 48 columns
+The accessibility (from 0 to 100) of retailer r in week t.
